@@ -27,6 +27,11 @@ body {
     width: 1.5rem;
 }
 
+.fa-solid fa-mug-hot {
+    color: crimson;
+}
+
+
 .logo-font {
     text-transform: uppercase;
 }
@@ -86,7 +91,4 @@ body {
     .header-container {
         padding-top: 172px;
     }
-}
-.fa-solid fa-mug-hot {
-    color: crimson;
 }
