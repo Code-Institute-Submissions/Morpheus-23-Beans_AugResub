@@ -13,12 +13,11 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 body {
     background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 75px);
-    color: crimson;
+    height: calc(100vh - 150px);
+    color: orangered;
     font-family: 'Amita', cursive;
 }
 
-/*... from Bulma ...*/
 .icon {
     align-items: center;
     display: inline-flex;
@@ -37,13 +36,13 @@ body {
 
 .order-now-button {
     background: lightgray;
-    color: whitesmoke;
-    min-width: 260px;
+    color: orangered;
+    min-width: 240px;
 }
 
 .btn-gray {
-    background: gray;
-    color: white;
+    background: lightgray;
+    color: orangered;
 }
 
 .order-now-button:hover,
@@ -52,11 +51,12 @@ body {
 .btn-gray:hover,
 .btn-gray:active,
 .btn-gray:focus {
-    background: whitesmoke;
-    color: crimson;
+    background: gray;
+    color: orangered;
 }
+
 .text-red {
-    color: crimson !important;
+    color: orangered !important;
 }
 
 .text-orange {
@@ -67,17 +67,22 @@ body {
     color: #ffc107 !important;
 }
 
-.border-red {
-    border: 1px solid red !important;
+.text-gray {
+    color: gray;
 }
 
-.bg-black {
-    background: #000 !important;
+.border-red {
+    border: 1px solid orangered !important;
+}
+
+.bg-gray {
+    background: gray !important;
 }
 
 
 #delivery-banner {
-    opacity: 0.4;
+    background-color: gray;
+    opacity: 0.6;
 }
 
 /* -------------------------------- Media Queries */
@@ -100,6 +105,6 @@ body {
     }
 
     .header-container {
-        padding-top: 172px;
+        padding-top: 150px;
     }
 }
