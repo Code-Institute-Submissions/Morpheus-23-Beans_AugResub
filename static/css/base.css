@@ -1,15 +1,11 @@
-
 html {
     height: 100%;
 }
-
 
 /*
 font-family: 'Fira Sans Condensed', sans-serif;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 */
-
-
 body {
     background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
@@ -55,10 +51,6 @@ body {
     color: orangered;
 }
 
-.text-red {
-    color: orangered !important;
-}
-
 .text-orange {
     color: orangered !important;
 }
@@ -71,14 +63,29 @@ body {
     color: gray;
 }
 
-.border-red {
+.border-orange {
     border: 1px solid orangered !important;
+}
+
+.border-yellow {
+    border: 1px solid #ffc107 !important;
+}
+
+.border-gray {
+    border: 1px solid gray !important;
+}
+
+.bg-orange {
+    background: orangered !important;
+}
+
+.bg-yellow {
+    background: #ffc107 !important;
 }
 
 .bg-gray {
     background: gray !important;
 }
-
 
 #delivery-banner {
     background-color: gray;
