@@ -13,7 +13,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 body {
     background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 175px);
+    height: calc(100vh - 75px);
     color: crimson;
     font-family: 'Amita', cursive;
 }
@@ -27,11 +27,6 @@ body {
     width: 1.5rem;
 }
 
-.fa-solid fa-mug-hot {
-    color: crimson;
-}
-
-
 .logo-font {
     text-transform: uppercase;
 }
@@ -40,29 +35,36 @@ body {
     width: fit-content;
 }
 
-.shop-now-button {
-    background: orangered;
-    color: white;
+.order-now-button {
+    background: lightgray;
+    color: whitesmoke;
     min-width: 260px;
 }
 
-.btn-black {
-    background: palevioletred;
+.btn-gray {
+    background: gray;
     color: white;
 }
 
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
-    background: darkred;
-    color: white;
+.order-now-button:hover,
+.order-now-button:active,
+.order-now-button:focus,
+.btn-gray:hover,
+.btn-gray:active,
+.btn-gray:focus {
+    background: whitesmoke;
+    color: crimson;
 }
-
 .text-red {
-    color: brown !important;
+    color: crimson !important;
+}
+
+.text-orange {
+    color: orangered !important;
+}
+
+.text-yellow {
+    color: #ffc107 !important;
 }
 
 .border-red {
@@ -71,6 +73,11 @@ body {
 
 .bg-black {
     background: #000 !important;
+}
+
+
+#delivery-banner {
+    opacity: 0.4;
 }
 
 /* -------------------------------- Media Queries */

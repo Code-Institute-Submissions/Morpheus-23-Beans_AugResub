@@ -37,18 +37,18 @@
     <body>
         <header class="container-fluid fixed-top">
             <div id="topnav" class="row bg-orange pt-lg-2x d-none d-lg-flex">
-                <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
+                <div class="col-12 col-lg-6 my-auto py-1 py-lg-0 text-center text-lg-left">
                     <a href="{% url 'home' %}" class="nav-link main-logo-link">
-                        <h2 class="logo-font text-white my-0">2Bean-or-not-2Bean &trade; </h2><h4></h4>
+                        <h1 class="logo-font text-white text-orange text-nowrap my-0">2Bean-or-not-2Bean &trade;</h1>
                     </a>
                 </div>
-                <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
+                <div class="col-12 col-lg-3 my-auto py-1 py-lg-0">
                     <form method="GET" action="">
                         <div class="input-group w-100">
-                            <input class="form-control border border-red rounded-0" type="text" name="q"
-                                placeholder="Search our site">
+                            <input class="form-control border border-gray rounded-0" type="text" name="q"
+                                placeholder="Search our online store">
                             <div class="input-group-append">
-                                <button class="form-control btn btn-red border border-red rounded" type="submit">
+                                <button class="form-control btn btn-gray border rounded-0" type="submit">
                                     <span class="icon">
                                         <i class="fas fa-search"></i>
                                     </span>
@@ -57,20 +57,20 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
+                <div class="col-12 col-lg-3 my-auto py-1 py-lg-0">
                     <ul class="list-inline list-unstyled text-center text-lg-right my-0">
                         <li class="list-inline-item dropdown">
-                            <a class="text-white nav-link" href="#" id="user-options" data-toggle="'dropdown"
+                            <a class="text-orange nav-link" href="#" id="user-options" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">
                                 <div class="text-center">
                                     <div><i class="fas fa-user fa-lg"></i></div>
-                                    <p class="my-0">My Bean Bag account</p>
+                                    <p class="my-0">My Account</p>
                                 </div>
                             </a>
                             <div class="dropdown-menu border-0" aria-labelledby="user-options">
                                 {% if request.user.is_authenticated %}
                                     {% if request.user.is_superuser %}
-                                        <a href="" class="dropdown-item">Product Management Bean Keeper</a>
+                                        <a href="" class="dropdown-item">The Bean Keeper</a>
                                     {% endif %}
                                     <a href="" class="dropdown-item">My Bean Profile</a>
                                     <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
@@ -81,10 +81,11 @@
                             </div>
                         </li>
                         <li class="list-inline-item">
-                            <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-red{% endif %} nav-link"
+                            <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-orange{% endif %} nav-link"
                                 href="">
                                 <div class="text-center">
                                     <div><i class="fas fa-shopping-bag fa-lg"></i></div>
+                                    <p class="my-0">Shopping Bag</p>
                                     <p class="my-0">
                                         {% if grand_total %}
                                             &#8364 {{ grand_total|floatformat:2 }}
@@ -108,11 +109,15 @@
                     {% include 'includes/main-nav.html' %}
                 </nav>
             </div>
-            <div id="delivery-banner" class="row text-center">
-                <div class="col bg-black text-white">
-                    <h4 class="logo-font my-1">Free delivery for monthly subscribers over {{ free_delivery_threshold }}!</h4>
-                </div>
-            </div>
+
+    <div id="delivery-banner" class="row text-center">
+        <div class="col bg-orange text-white">
+            <h4 class="logo-font my-1">Free delivery for monthly subscribers over {{ free_delivery_threshold }}!</h4>
+        </div>
+    </div>
+
+            
+
         </header>
 
         {% if messages %}
