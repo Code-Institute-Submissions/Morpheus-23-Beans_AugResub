@@ -5,11 +5,12 @@ class Category(models.Model):
     name = models.CharField(max_length=250)
     friendly_name = models.CharField(max_length=250, null=True, blank=True)
 
-    def__str__(self):
+    def __str__(self):
         return self.name
 
     def get_friendly_name(self):
         return self.name
+
 
 class Product(models.Model):
     category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
@@ -23,4 +24,3 @@ class Product(models.Model):
 
     def __str__(self):
         return self.name
-
