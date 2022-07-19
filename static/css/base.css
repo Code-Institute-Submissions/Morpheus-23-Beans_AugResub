@@ -103,6 +103,10 @@ footer {
     background: #ffc107 !important;
 }
 
+.bg-lgray {
+    background-color: lightgray;
+}
+
 .bg-gray {
     background: gray !important;
 }

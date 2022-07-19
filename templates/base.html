@@ -47,7 +47,7 @@
                 <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
                     <form method="GET" action="">
                         <div class="input-group w-100">
-                            <input class="form-control border border-light rounded-0" type="text" name="q"
+                            <input class="form-control bg-lgray border border-light rounded-0" type="text" name="q"
                                 placeholder="Search our online store">
                             <div class="input-group-append">
                                 <button class="form-control btn btn-gray border border-light rounded-0" type="submit">
@@ -111,12 +111,12 @@
                     {% include 'includes/main-nav.html' %}
                 </nav>
             </div>
-<div id="delivery-banner" class="row text-center">
-    <div class="col text-yellow">
-        <h4 class="logo-font text-lowercase my-1">No delivery charges for orders above &#8364
+    <div id="delivery-banner" class="row text-center">
+        <div class="col text-yellow">
+            <h4 class="logo-font text-lowercase my-1">No delivery charges for orders above &#8364
             {{ free_delivery_threshold }}!</h4>
+        </div>
     </div>
-</div>
 
         </header>
 
@@ -133,7 +133,5 @@
         {% block postloadjs %}
         {% endblock %}
 
-
     </body>
-
 </html>
