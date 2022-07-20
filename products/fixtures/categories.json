@@ -1,44 +1,42 @@
-[{
-    "pk": 1,
-    "model": "products.category",
-    "fields": {
-        "name": "beans",
-        "friendly_name": "Beans"
+[
+    {
+        "pk": 1,
+        "model": "products.category",
+        "fields": {
+            "name": "beans",
+            "friendly_name": "Beans"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.category",
+        "fields": {
+            "name": "coffee_makers",
+            "friendly_name": "Coffee makers"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.category",
+        "fields": {
+            "name": "mugs",
+            "friendly_name": "Mugs"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.category",
+        "fields": {
+            "name": "cups",
+            "friendly_name": "Cups"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.category",
+        "fields": {
+            "name": "sets",
+            "friendly_name": "Sets"
+        }
     }
-}, 
-{
-    "pk": 2,
-    "model": "products.category",
-    "fields": {
-        "name": "clearance",
-        "friendly_name": "Clearance"
-    }
-}, {
-    "pk": 3,
-    "model": "products.category",
-    "fields": {
-        "name": "coffee_makers",
-        "friendly_name": "Coffee Makers"
-    }
-}, {
-    "pk": 4,
-    "model": "products.category",
-    "fields": {
-        "name": "mugs_and_cups",
-        "friendly_name": "Mugs and Cups"
-    }
-}, {
-    "pk": 5,
-    "model": "products.category",
-    "fields": {
-        "name": "sets",
-        "friendly_name": "Sets"
-    }
-}, {
-    "pk": 6,
-    "model": "products.category",
-    "fields": {
-        "name": "once_beans",
-        "friendly_name": "Once Off Beans"
-    }
-}]
+]

@@ -1,29 +1,394 @@
-[{
-        "pk": 1,
-        "model": "products.product",
-        "fields": {
-            "sku": "pp5001340155",
-            "name": "Arabica Beans, Brazil",
-            "description": "Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
-            "price": 15.00,
-            "category": 1,
-            "rating": 4.8,
-            "image_url": "http:// ",
-            "image": "beans-arabica-brazil-B01.jpg"
-        }
-    },
+[
     {
         "pk": 1,
         "model": "products.product",
         "fields": {
-            "sku": "pp5001600425",
-            "name": "Arabica Beans, Colombia",
+            "sku": "0010050000011",
+            "name": "Arabica Beans, Brazil 500 grams",
+            "description": "Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
+            "price": 15.00,
+            "category": 1,
+            "rating": 4.8,
+            "image_url": "",
+            "image": "beans-arabica-brazil-B01.jpg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010050000021",
+            "name": "Arabica Beans, Colombia 500 grams",
             "description": "S",
             "price": 16.25,
             "category": 1,
             "rating": 4.9,
-            "image_url": "http:// ",
-            "image": "beans-arabica-Colombia-B02.jpg"
+            "image_url": "",
+            "image": "beans-arabica-colombia-B02.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010060000031",
+            "name": "Liberica Beans, Malaysia 500 grams",
+            "description": "S",
+            "price": 11.99,
+            "category": 1,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/beans-liberica-malaysia-B03.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010060000041",
+            "name": "Liberica Beans, Philippines 500 grams",
+            "description": "S",
+            "price": 12.50,
+            "category": 1,
+            "rating": 4.2,
+            "image_url": "",
+            "image": "media/beans-liberica-philippines-B06.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010070000051",
+            "name": "Robusta Beans, Kenya 500 grams",
+            "description": "S",
+            "price": 12.99,
+            "category": 1,
+            "rating": 4.3,
+            "image_url": "",
+            "image": "media/beans-robusta-kenya-B05.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010070000061",
+            "name": "Robusta Beans, Vietnam 500 grams",
+            "description": "S",
+            "price": 12.99,
+            "category": 1,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/beans-robusta-vietnam-B04.jpg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020010001",
+            "name": "Classic black cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.5,
+            "image_url": "",
+            "image": "media/cup-chino-black-C06.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020020001",
+            "name": "Classic light blue cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/cup-chino-blue-C09.jpg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020030001",
+            "name": "Classic cream cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.3,
+            "image_url": "",
+            "image": "media/cup-chino-cream-C05.jpg"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020040001",
+            "name": "Classic green cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 3.9,
+            "image_url": "",
+            "image": "media/cup-chino-green-C04.jpg"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020050001",
+            "name": "Classic orange cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.5,
+            "image_url": "",
+            "image": "media/cup-chino-orange-C07.jpg"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020110001",
+            "name": "Classic turquoise and yello cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.7,
+            "image_url": "",
+            "image": "media/cup-chino-turq-yellow-C12.jpg"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020070001",
+            "name": "Classic white cappuccino cup",
+            "description": "S",
+            "price": 2.19,
+            "category": 4,
+            "rating": 4.0,
+            "image_url": "",
+            "image": "media/cup-chino-white-C08.jpg"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020060001",
+            "name": "Classic yello cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/cup-chino-yellow-C11.jpg"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020060001",
+            "name": "Classic yello cappuccino cup",
+            "description": "S",
+            "price": 2.99,
+            "category": 4,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/cup-chino-yellow-C11.jpg"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040010002011",
+            "name": "Victorian glass espresso cup",
+            "description": "S",
+            "price": 2.79,
+            "category": 4,
+            "rating": 3.8,
+            "image_url": "",
+            "image": "media/cup-esp-glass-vict-C10.jpg"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020070002",
+            "name": "Classic white espresso cup",
+            "description": "S",
+            "price": 1.99,
+            "category": 4,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/cup-esp-white-C01.jpg"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "products.product",
+        "fields": {
+            "sku": "0040020070003",
+            "name": "Classic white espresso cup",
+            "description": "S",
+            "price": 1.99,
+            "category": 4,
+            "rating": 4.0,
+            "image_url": "",
+            "image": "media/cup-esp-white-C03.jpg"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020083001",
+            "name": "Wood textured brown coffee mug",
+            "description": "S",
+            "price": 3.99,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/cup-nor-brown-C02.jpg"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020040000001",
+            "name": "Glass andwood french press",
+            "description": "S",
+            "price": 9.99,
+            "category": 2,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/maker-french-glass-wood.M02.jpg"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020030120001",
+            "name": "Bialetti moka pot",
+            "description": "S",
+            "price": 19.99,
+            "category": 2,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "media/maker-moka-bialetti-M05.jpg"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020030122001",
+            "name": "Vintage round moka pot",
+            "description": "S",
+            "price": 14.50,
+            "category": 2,
+            "rating": 4.0,
+            "image_url": "",
+            "image": "media/maker-moka-sil-round-M03.jpg"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020040000002",
+            "name": "Pour-over drip filter",
+            "description": "S",
+            "price": 9.50,
+            "category": 2,
+            "rating": 3.9,
+            "image_url": "",
+            "image": "media/maker-pour-glass-wood-M01.jpg"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020010000001",
+            "name": "Collector's edition siphon coffee maker",
+            "description": "S",
+            "price": 19.50,
+            "category": 2,
+            "rating": 4.5,
+            "image_url": "",
+            "image": "media/maker-siphon-collectors-M04.jpg"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020011041",
+            "name": "Black coffee mug",
+            "description": "S",
+            "price": 3.50,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/mug-mes-black-style-G01.jpg"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020011042",
+            "name": "Black barrel shaped coffee mug",
+            "description": "S",
+            "price": 5.50,
+            "category": 3,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/mug-mes-black-win-G03.jpg"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020081051",
+            "name": "Brown coffee mug",
+            "description": "S",
+            "price": 4.80,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/mug-mes-brown-latte-G04.jpg"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020091051",
+            "name": "Grey coffee mug",
+            "description": "S",
+            "price": 4.50,
+            "category": 3,
+            "rating": 4.2,
+            "image_url": "",
+            "image": "media/mug-mes-grey-possible-G07.jpg"
         }
     }
 ]
