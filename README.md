@@ -8,7 +8,7 @@ PLEASE NOTE: README AND PROJECT UNFINISHED UPON SUBMISSION !
 
 * Project is incomplete: 
     - products setup is incomplete (images needs to be cropped, product descriptions missing, currency to be amended, footer and page layout to be finalised)
-    - many features not implemented as yet such as login and registration pages, functionalities not yet implemented
+    - many features not implemented as yet such as login and registration pages, functionalities not yet implemented include stripe payments etc
 
 * Readme is incomplete and requires the following:
     - Complete explanation of the site's purpose and the value to its users
@@ -20,7 +20,6 @@ PLEASE NOTE: README AND PROJECT UNFINISHED UPON SUBMISSION !
         - bugs encountered, resolved and unresolved to be reflected,
         - automated testing and code validation 
     - Deployment section provinding an explanation on environmental setup done, deployment in Heroku
-
     - Technologies used section indicating languages, libraries, frameworks and tools used and a brief summary of their function.
     - Content / credit section acknowledging/indicating when/where any code and/or ideas and/or features where used that is not my own and indicating where said code, ideas, features,images were sourced were sourced from. Also indicating where icons, fonts etc were obtained from.
     
