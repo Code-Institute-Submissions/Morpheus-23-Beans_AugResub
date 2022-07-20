@@ -37,7 +37,7 @@
             "category": 1,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/beans-liberica-malaysia-B03.jpg"
+            "image": "beans-liberica-malaysia-B03.jpg"
         }
     },
     {
@@ -51,7 +51,7 @@
             "category": 1,
             "rating": 4.2,
             "image_url": "",
-            "image": "media/beans-liberica-philippines-B06.jpg"
+            "image": "beans-liberica-philippines-B06.jpg"
         }
     },
     {
@@ -65,7 +65,7 @@
             "category": 1,
             "rating": 4.3,
             "image_url": "",
-            "image": "media/beans-robusta-kenya-B05.jpg"
+            "image": "beans-robusta-kenya-B05.jpg"
         }
     },
     {
@@ -79,7 +79,7 @@
             "category": 1,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/beans-robusta-vietnam-B04.jpg"
+            "image": "beans-robusta-vietnam-B04.jpg"
         }
     },
     {
@@ -93,7 +93,7 @@
             "category": 4,
             "rating": 4.5,
             "image_url": "",
-            "image": "media/cup-chino-black-C06.jpg"
+            "image": "cup-chino-black-C06.jpg"
         }
     },
     {
@@ -107,7 +107,7 @@
             "category": 4,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/cup-chino-blue-C09.jpg"
+            "image": "cup-chino-blue-C09.jpg"
         }
     },
     {
@@ -121,7 +121,7 @@
             "category": 4,
             "rating": 4.3,
             "image_url": "",
-            "image": "media/cup-chino-cream-C05.jpg"
+            "image": "cup-chino-cream-C05.jpg"
         }
     },
     {
@@ -135,7 +135,7 @@
             "category": 4,
             "rating": 3.9,
             "image_url": "",
-            "image": "media/cup-chino-green-C04.jpg"
+            "image": "cup-chino-green-C04.jpg"
         }
     },
     {
@@ -149,7 +149,7 @@
             "category": 4,
             "rating": 4.5,
             "image_url": "",
-            "image": "media/cup-chino-orange-C07.jpg"
+            "image": "cup-chino-orange-C07.jpg"
         }
     },
     {
@@ -157,13 +157,13 @@
         "model": "products.product",
         "fields": {
             "sku": "0040020110001",
-            "name": "Classic turquoise and yello cappuccino cup",
+            "name": "Classic turquoise and yellow cappuccino cup",
             "description": "S",
             "price": 2.99,
             "category": 4,
             "rating": 4.7,
             "image_url": "",
-            "image": "media/cup-chino-turq-yellow-C12.jpg"
+            "image": "cup-chino-turq-yellow-C12.jpg"
         }
     },
     {
@@ -177,7 +177,7 @@
             "category": 4,
             "rating": 4.0,
             "image_url": "",
-            "image": "media/cup-chino-white-C08.jpg"
+            "image": "cup-chino-white-C08.jpg"
         }
     },
     {
@@ -185,13 +185,13 @@
         "model": "products.product",
         "fields": {
             "sku": "0040020060001",
-            "name": "Classic yello cappuccino cup",
+            "name": "Classic yellow cappuccino cup",
             "description": "S",
             "price": 2.99,
             "category": 4,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/cup-chino-yellow-C11.jpg"
+            "image": "cup-chino-yellow-C11.jpg"
         }
     },
     {
@@ -199,13 +199,13 @@
         "model": "products.product",
         "fields": {
             "sku": "0040020060001",
-            "name": "Classic yello cappuccino cup",
+            "name": "Classic yellow cappuccino cup",
             "description": "S",
             "price": 2.99,
             "category": 4,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/cup-chino-yellow-C11.jpg"
+            "image": "cup-chino-yellow-C11.jpg"
         }
     },
     {
@@ -219,7 +219,7 @@
             "category": 4,
             "rating": 3.8,
             "image_url": "",
-            "image": "media/cup-esp-glass-vict-C10.jpg"
+            "image": "cup-esp-glass-vict-C10.jpg"
         }
     },
     {
@@ -233,7 +233,7 @@
             "category": 4,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/cup-esp-white-C01.jpg"
+            "image": "cup-esp-white-C01.jpg"
         }
     },
     {
@@ -247,7 +247,7 @@
             "category": 4,
             "rating": 4.0,
             "image_url": "",
-            "image": "media/cup-esp-white-C03.jpg"
+            "image": "cup-esp-white-C03.jpg"
         }
     },
     {
@@ -261,7 +261,7 @@
             "category": 3,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/cup-nor-brown-C02.jpg"
+            "image": "cup-nor-brown-C02.jpg"
         }
     },
     {
@@ -275,7 +275,7 @@
             "category": 2,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/maker-french-glass-wood.M02.jpg"
+            "image": "maker-french-glass-wood.M02.jpg"
         }
     },
     {
@@ -289,7 +289,7 @@
             "category": 2,
             "rating": 4.6,
             "image_url": "",
-            "image": "media/maker-moka-bialetti-M05.jpg"
+            "image": "maker-moka-bialetti-M05.jpg"
         }
     },
     {
@@ -303,7 +303,7 @@
             "category": 2,
             "rating": 4.0,
             "image_url": "",
-            "image": "media/maker-moka-sil-round-M03.jpg"
+            "image": "maker-moka-sil-round-M03.jpg"
         }
     },
     {
@@ -317,7 +317,7 @@
             "category": 2,
             "rating": 3.9,
             "image_url": "",
-            "image": "media/maker-pour-glass-wood-M01.jpg"
+            "image": "maker-pour-glass-wood-M01.jpg"
         }
     },
     {
@@ -331,7 +331,7 @@
             "category": 2,
             "rating": 4.5,
             "image_url": "",
-            "image": "media/maker-siphon-collectors-M04.jpg"
+            "image": "maker-siphon-collectors-M04.jpg"
         }
     },
     {
@@ -345,7 +345,7 @@
             "category": 3,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/mug-mes-black-style-G01.jpg"
+            "image": "mug-mes-black-style-G01.jpg"
         }
     },
     {
@@ -359,7 +359,7 @@
             "category": 3,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/mug-mes-black-win-G03.jpg"
+            "image": "mug-mes-black-win-G03.jpg"
         }
     },
     {
@@ -373,7 +373,7 @@
             "category": 3,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/mug-mes-brown-latte-G04.jpg"
+            "image": "mug-mes-brown-latte-G04.jpg"
         }
     },
     {
@@ -387,7 +387,7 @@
             "category": 3,
             "rating": 4.2,
             "image_url": "",
-            "image": "media/mug-mes-grey-possible-G07.jpg"
+            "image": "mug-mes-grey-possible-G07.jpg"
         }
     },
     {
@@ -401,7 +401,7 @@
             "category": 3,
             "rating": 3.9,
             "image_url": "",
-            "image": "media/mug-mes-offwhite-perfect-G08.jpg"
+            "image": "mug-mes-offwhite-perfect-G08.jpg"
         }
     },
     {
@@ -415,7 +415,7 @@
             "category": 3,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/mug-mes-white-unicorn-G09.jpg"
+            "image": "mug-mes-white-unicorn-G09.jpg"
         }
     },
     {
@@ -429,7 +429,7 @@
             "category": 3,
             "rating": 4.7,
             "image_url": "",
-            "image": "media/mug-plain-black-G10.jpg"
+            "image": "mug-plain-black-G10.jpg"
         }
     },
     {
@@ -443,7 +443,7 @@
             "category": 3,
             "rating": 4.6,
             "image_url": "",
-            "image": "media/mug-plain-orange-G02.jpg"
+            "image": "mug-plain-orange-G02.jpg"
         }
     },
     {
@@ -457,7 +457,7 @@
             "category": 3,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/mug-plain-white-double-G05.jpg"
+            "image": "mug-plain-white-double-G05.jpg"
         }
     },
     {
@@ -471,7 +471,7 @@
             "category": 3,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/runcup-black-clock-R02.jpg"
+            "image": "runcup-black-clock-R02.jpg"
         }
     },
     {
@@ -485,7 +485,7 @@
             "category": 3,
             "rating": 4.6,
             "image_url": "",
-            "image": "media/runcup-black-peace-R01.jpg"
+            "image": "runcup-black-peace-R01.jpg"
         }
     },
     {
@@ -499,7 +499,7 @@
             "category": 3,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/runcup-pink-hug-R03.jpg"
+            "image": "runcup-pink-hug-R03.jpg"
         }
     },
     {
@@ -507,13 +507,13 @@
         "model": "products.product",
         "fields": {
             "sku": "0030020131051",
-            "name": "Refillable on-the-go black coffee cup",
+            "name": "Refillable on-the-go pink coffee cup",
             "description": "S",
             "price": 6.00,
             "category": 3,
             "rating": 4.8,
             "image_url": "",
-            "image": "media/runcup-pink-lord-R04.jpg"
+            "image": "runcup-pink-lord-R04.jpg"
         }
     },
     {
@@ -527,7 +527,7 @@
             "category": 5,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/set-drip-cup-white-S06.jpg"
+            "image": "set-drip-cup-white-S06.jpg"
         }
     },
     {
@@ -541,7 +541,7 @@
             "category": 5,
             "rating": 4.1,
             "image_url": "",
-            "image": "media/set-drip-glass-double-S08.jpg"
+            "image": "set-drip-glass-double-S08.jpg"
         }
     },
     {
@@ -555,7 +555,7 @@
             "category": 5,
             "rating": 4.7,
             "image_url": "",
-            "image": "media/set-moka-black-cup-white-S04.jpg"
+            "image": "set-moka-black-cup-white-S04.jpg"
         }
     },
     {
@@ -569,7 +569,7 @@
             "category": 5,
             "rating": 4.0,
             "image_url": "",
-            "image": "media/set-moka-camp-mugs-S10.jpg"
+            "image": "set-moka-camp-mugs-S10.jpg"
         }
     },
     {
@@ -583,7 +583,7 @@
             "category": 3,
             "rating": 3.8,
             "image_url": "",
-            "image": "media/set-moka-cup-white-S01.jpg"
+            "image": "set-moka-cup-white-S01.jpg"
         }
     },
     {
@@ -597,7 +597,7 @@
             "category": 5,
             "rating": 4.6,
             "image_url": "",
-            "image": "media/set-moka-glass-S07.jpg"
+            "image": "set-moka-glass-S07.jpg"
         }
     },
     {
@@ -611,7 +611,7 @@
             "category": 5,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/set-press-cup-white-S02.jpg"
+            "image": "set-press-cup-white-S02.jpg"
         }
     },
     {
@@ -625,7 +625,7 @@
             "category": 5,
             "rating": 4.4,
             "image_url": "",
-            "image": "media/set-press-mug-white.S05.jpg"
+            "image": "set-press-mug-white.S05.jpg"
         }
     },
     {
@@ -639,7 +639,7 @@
             "category": 5,
             "rating": 3.9,
             "image_url": "",
-            "image": "media/sset-press-silver-mug-camp-S03.jpg"
+            "image": "set-press-silver-mug-camp-S03.jpg"
         }
     },
     {
@@ -653,7 +653,7 @@
             "category": 5,
             "rating": 4.7,
             "image_url": "",
-            "image": "media/set-press-wood-cup-min-S09.jpg"
+            "image": "set-press-wood-cup-min-S09.jpg"
         }
     }
 ]
