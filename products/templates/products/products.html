@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            {{ products }}
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="container-fluid fixed-bottom text-center">
+        <h3 class="logo-font text-yellow text-lowercase">...i came, i saw, i chose coffee...</h3>
+    </div>
+</footer>
+{% endblock %}
+
+
+
