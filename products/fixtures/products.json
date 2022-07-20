@@ -1,5 +1,4 @@
-[
-    {
+[{
         "pk": 1,
         "model": "products.product",
         "fields": {
@@ -270,7 +269,7 @@
         "model": "products.product",
         "fields": {
             "sku": "0020040000001",
-            "name": "Glass andwood french press",
+            "name": "Glass and wood french press",
             "description": "S",
             "price": 9.99,
             "category": 2,
@@ -389,6 +388,272 @@
             "rating": 4.2,
             "image_url": "",
             "image": "media/mug-mes-grey-possible-G07.jpg"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020101051",
+            "name": "Off white coffee mug with message",
+            "description": "S",
+            "price": 3.79,
+            "category": 3,
+            "rating": 3.9,
+            "image_url": "",
+            "image": "media/mug-mes-offwhite-perfect-G08.jpg"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020071051",
+            "name": "White coffee mug with message",
+            "description": "S",
+            "price": 3.50,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/mug-mes-white-unicorn-G09.jpg"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020010001",
+            "name": "Black coffee mug",
+            "description": "S",
+            "price": 4.20,
+            "category": 3,
+            "rating": 4.7,
+            "image_url": "",
+            "image": "media/mug-plain-black-G10.jpg"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020050001",
+            "name": "Orange coffee mug",
+            "description": "S",
+            "price": 4.30,
+            "category": 3,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "media/mug-plain-orange-G02.jpg"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020070001",
+            "name": "White coffee mug set of two",
+            "description": "S",
+            "price": 7.99,
+            "category": 3,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/mug-plain-white-double-G05.jpg"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030080011051",
+            "name": "Disposable black coffee cup",
+            "description": "S",
+            "price": 0.99,
+            "category": 3,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/runcup-black-clock-R02.jpg"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020011051",
+            "name": "Refillable on-the-go black coffee cup",
+            "description": "S",
+            "price": 5.50,
+            "category": 3,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "media/runcup-black-peace-R01.jpg"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030080131051",
+            "name": "Disposable pink coffee cup",
+            "description": "S",
+            "price": 1.20,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/runcup-pink-hug-R03.jpg"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020131051",
+            "name": "Refillable on-the-go black coffee cup",
+            "description": "S",
+            "price": 6.00,
+            "category": 3,
+            "rating": 4.8,
+            "image_url": "",
+            "image": "media/runcup-pink-lord-R04.jpg"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050090000001",
+            "name": "Drip filter and white cup set",
+            "description": "S",
+            "price": 12.50,
+            "category": 5,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/set-drip-cup-white-S06.jpg"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050010000001",
+            "name": "Drip filter and glass set",
+            "description": "S",
+            "price": 13.50,
+            "category": 5,
+            "rating": 4.1,
+            "image_url": "",
+            "image": "media/set-drip-glass-double-S08.jpg"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050100140001",
+            "name": "Black moka pot and white cup set",
+            "description": "S",
+            "price": 23.50,
+            "category": 5,
+            "rating": 4.7,
+            "image_url": "",
+            "image": "media/set-moka-black-cup-white-S04.jpg"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050110150001",
+            "name": "Moka pot with camping mugs set",
+            "description": "S",
+            "price": 18.00,
+            "category": 5,
+            "rating": 4.0,
+            "image_url": "",
+            "image": "media/set-moka-camp-mugs-S10.jpg"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050100150001",
+            "name": "Moka pot with white cup set",
+            "description": "S",
+            "price": 20.00,
+            "category": 3,
+            "rating": 3.8,
+            "image_url": "",
+            "image": "media/set-moka-cup-white-S01.jpg"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050120120001",
+            "name": "Moka pot with glass set",
+            "description": "S",
+            "price": 19.80,
+            "category": 5,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "media/set-moka-glass-S07.jpg"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050090010001",
+            "name": "French press with white cup set",
+            "description": "S",
+            "price": 20.50,
+            "category": 5,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/set-press-cup-white-S02.jpg"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "products.product",
+        "fields": {
+            "sku": "0030020011041",
+            "name": "French press with white mug set",
+            "description": "S",
+            "price": 21.50,
+            "category": 5,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "media/set-press-mug-white.S05.jpg"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050100000001",
+            "name": "Camping french press with mug set",
+            "description": "S",
+            "price": 19.60,
+            "category": 5,
+            "rating": 3.9,
+            "image_url": "",
+            "image": "media/sset-press-silver-mug-camp-S03.jpg"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "products.product",
+        "fields": {
+            "sku": "0050090100001",
+            "name": "French press with cup set",
+            "description": "S",
+            "price": 23.00,
+            "category": 5,
+            "rating": 4.7,
+            "image_url": "",
+            "image": "media/set-press-wood-cup-min-S09.jpg"
         }
     }
 ]
