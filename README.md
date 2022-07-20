@@ -4,71 +4,23 @@ PLEASE NOTE: README AND PROJECT UNFINISHED UPON SUBMISSION !
 
 # 2Bean-or-not-2Bean
 
-[2Bean-or-not-2Bean](https://   ) is a website aimed at the coffee enthusiast that sells a variety of high quality coffee beans, coffee makers and cups and mugs. For registered users "beanies", there are more options available, such a choosing the beans and how dark they would like the roast to be and they have access to coffee brewing tips and suggestions, to ensure they get the very best brew from their beans.
-
-
-## User Experience (UX)
-
-### User stories
-
-### Strategy
-
-### Scope
-
-### Structure
-
-### Skeleton
-
-### Surface
-
-## Features
-
-### Existing Features
-
-#### Common Page features
-    
-#### Page specific features
-
-## Testing
-
-## Deployment
-
-### GitHub Pages
-
-### Making a Clone
-
-### Forking the repository for own use
-
-#### Create Mongodb database 
-
-### Heroku
-
-#### Create a Heroku application 
-
-#### Deployment 
-
-## Technologies Used
-
-## Unimplemented assessment criteria
+[2Bean-or-not-2Bean](https://   ) is a website aimed at the coffee enthusiast and sells a variety of high quality coffee beans, coffee makers and cups and mugs. For registered users "beanies", there are more options available, such a choosing how dark they would like the bean roast to be and they have access to coffee brewing tips and suggestions, to ensure they get the very best brew from their beans.
 
 * Project is incomplete: 
-    -   No Readme (including testing, wireframes, user stories)
-        products setup is incomplete,
+    - products setup is incomplete (images needs to be cropped, product descriptions missing, currency to be amended, footer and page layout to be finalised)
+    - many features not implemented as yet such as login and registration pages, functionalities not yet implemented
 
+* Readme is incomplete and requires the following:
+    - Complete explanation of the site's purpose and the value to its users
+    - User Experience section consisting of User stories, strategy, scope, structure, skeleton and surface planes including wireframes.
+    - Features section reflecting existing features, common page features and page specific features.
+    - Testing section featuring
+        - manual testing of user stories,
+        - screenshots of all pages viewed in a responsive viewer reflecting site is fully responsive on all device sizes,
+        - bugs encountered, resolved and unresolved to be reflected,
+        - automated testing and code validation 
+    - Deployment section provinding an explanation on environmental setup done, deployment in Heroku
 
-## Content
-
-- All icons were taken from [Font Awesome](https://fontawesome.com/)
-
-- All images were taken from [Pexels](https://pexels.com/)
-    -   Welcome page (Photo by Chait Goli: https://www.pexels.com/photo/photo-of-boats-parked-on-river-2031706/)
-    -   Contact admin page (Photo by Teodor Savin: https://www.pexels.com/photo/green-and-blue-painted-house-600622/)
-
-- Fonts were utilised from [GoogleFonts](https://fonts.google.com/)
-
-- Responsiveness was tested and screenshots were taken from [AmIResponsive](https://ui.dev/amiresponsive)
-
-- Some design ideas were taken from the Code Institute Boutique Ado.
-
-- Some technical implementation information was taken from [StackOverflow](https://stackoverflow.com/)
-    -   https://stackoverflow.com/questions/
+    - Technologies used section indicating languages, libraries, frameworks and tools used and a brief summary of their function.
+    - Content / credit section acknowledging/indicating when/where any code and/or ideas and/or features where used that is not my own and indicating where said code, ideas, features,images were sourced were sourced from. Also indicating where icons, fonts etc were obtained from.
+    
