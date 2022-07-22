@@ -4,7 +4,7 @@ PLEASE NOTE: README AND PROJECT UNFINISHED UPON SUBMISSION !
 
 # 2Bean-or-not-2Bean
 
-[2Bean-or-not-2Bean](https://   ) is a website aimed at the coffee enthusiast and sells a variety of high quality coffee beans, coffee makers and cups and mugs. For registered users "beanies", there are more options available, such a choosing how dark they would like the bean roast to be and they have access to coffee brewing tips and suggestions, to ensure they get the very best brew from their beans.
+[2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) is a website aimed at the coffee enthusiast and sells a variety of high quality coffee beans, coffee makers and cups and mugs. For registered users "beanies", there are more options available, such a choosing how dark they would like the bean roast to be and they have access to coffee brewing tips and suggestions, to ensure they get the very best brew from their beans.
 
 * Project is incomplete: 
     - products setup is incomplete (images needs to be cropped, product descriptions missing, currency to be amended, footer and page layout to be finalised)
