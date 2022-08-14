@@ -9,7 +9,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 body {
     background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 150px);
+    height: calc(100vh - 155px);
     color: orangered;
     font-family: 'Amita', cursive;
 }
@@ -149,6 +149,6 @@ footer {
     }
 
     .header-container {
-        padding-top: 150px;
+        padding-top: 155px;
     }
 }
