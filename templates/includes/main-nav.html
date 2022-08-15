@@ -17,10 +17,10 @@
                 Beans
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="beans-link">
-                <a href="" class="dropdown-item">Arabica</a>
-                <a href="" class="dropdown-item">Robusta</a>
-                <a href="" class="dropdown-item">Liberica</a>
-                <a href="" class="dropdown-item">All Beans</a>
+                <a href="{% url 'products' %}?category=beans, arabica" class="dropdown-item">Arabica</a>
+                <a href="{% url 'products' %}?category=beans, robusta" class="dropdown-item">Robusta</a>
+                <a href="{% url 'products' %}?category=beans, liberica" class="dropdown-item">Liberica</a>
+                <a href="{% url 'products' %}?category=beans" class="dropdown-item">All Beans</a>
             </div>
         </li>
 
