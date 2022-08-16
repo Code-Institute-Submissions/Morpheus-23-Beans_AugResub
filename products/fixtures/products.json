@@ -8,7 +8,7 @@
             "price": 15.00,
             "category": 1,
             "rating": 4.8,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/coffee-beans-on-round-wok-2711959/",
             "image": "beans-arabica-brazil-B01.jpg"
         }
     },
@@ -22,7 +22,7 @@
             "price": 16.25,
             "category": 1,
             "rating": 4.9,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-cup-of-black-coffee-7091089/",
             "image": "beans-arabica-colombia-B02.jpg"
         }
     },
@@ -36,7 +36,7 @@
             "price": 11.99,
             "category": 1,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/beans-on-tray-2131905/",
             "image": "beans-liberica-malaysia-B03.jpg"
         }
     },
@@ -50,7 +50,7 @@
             "price": 12.50,
             "category": 1,
             "rating": 4.2,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/coffee-beans-beside-tea-spoon-2283596/",
             "image": "beans-liberica-philippines-B06.jpg"
         }
     },
@@ -64,7 +64,7 @@
             "price": 12.99,
             "category": 1,
             "rating": 4.3,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/coffee-beans-1695052/",
             "image": "beans-robusta-kenya-B05.jpg"
         }
     },
@@ -78,7 +78,7 @@
             "price": 12.99,
             "category": 1,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/coffee-beans-861090/",
             "image": "beans-robusta-vietnam-B04.jpg"
         }
     },
@@ -92,7 +92,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.5,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/close-up-of-coffee-cup-on-table-312418/",
             "image": "cup-chino-black-C06.jpg"
         }
     },
@@ -106,7 +106,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/beverage-blue-breakfast-brown-414551/",
             "image": "cup-chino-blue-C09.jpg"
         }
     },
