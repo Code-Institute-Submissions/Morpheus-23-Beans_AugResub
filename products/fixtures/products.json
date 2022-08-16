@@ -4,12 +4,12 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Arabica Beans, Brazil 500 grams",
-            "description": "Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
+            "description": " beans-arabica-brazil-B01.jpg  Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
             "price": 15.00,
             "category": 1,
             "rating": 4.8,
             "image_url": "https://www.pexels.com/photo/coffee-beans-on-round-wok-2711959/",
-            "image": "beans-arabica-brazil-B01.jpg"
+            "image": ""
         }
     },
     {
@@ -18,12 +18,12 @@
         "fields": {
             "sku": "0010050000021",
             "name": "Arabica Beans, Colombia 500 grams",
-            "description": "S",
+            "description": "S   beans-arabica-colombia-B02.jpg ",
             "price": 16.25,
             "category": 1,
             "rating": 4.9,
             "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-cup-of-black-coffee-7091089/",
-            "image": "beans-arabica-colombia-B02.jpg"
+            "image": ""
         }
     },
     {
