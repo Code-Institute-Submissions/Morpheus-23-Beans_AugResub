@@ -4,12 +4,12 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Arabica Beans, Brazil 500 grams",
-            "description": " beans-arabica-brazil-B01.jpg  Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
+            "description": "   Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
             "price": 15.00,
             "category": 1,
             "rating": 4.8,
             "image_url": "https://www.pexels.com/photo/coffee-beans-on-round-wok-2711959/",
-            "image": ""
+            "image": "beans-arabica-brazil-B01.jpg "
         }
     },
     {
@@ -18,12 +18,12 @@
         "fields": {
             "sku": "0010050000021",
             "name": "Arabica Beans, Colombia 500 grams",
-            "description": "S   beans-arabica-colombia-B02.jpg ",
+            "description": "S    ",
             "price": 16.25,
             "category": 1,
             "rating": 4.9,
             "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-cup-of-black-coffee-7091089/",
-            "image": ""
+            "image": "beans-arabica-colombia-B02.jpg"
         }
     },
     {
@@ -120,7 +120,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.3,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/white-ceramic-cup-on-saucer-beside-flower-vase-on-table-3714960/",
             "image": "cup-chino-cream-C05.jpg"
         }
     },
@@ -134,7 +134,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 3.9,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/green-and-black-ceramic-bowl-2318033/",
             "image": "cup-chino-green-C04.jpg"
         }
     },
@@ -148,7 +148,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.5,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/brown-ceramic-coffee-mug-on-saucer-362572/",
             "image": "cup-chino-orange-C07.jpg"
         }
     },
@@ -162,7 +162,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.7,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/cappuccino-cup-on-saucer-with-teaspoon-2067432/",
             "image": "cup-chino-turq-yellow-C12.jpg"
         }
     },
@@ -176,7 +176,7 @@
             "price": 2.19,
             "category": 4,
             "rating": 4.0,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/beverage-break-breakfast-brown-414630/",
             "image": "cup-chino-white-C08.jpg"
         }
     },
@@ -190,7 +190,7 @@
             "price": 2.99,
             "category": 4,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/espresso-machine-dispensing-on-two-mugs-2067628/",
             "image": "cup-chino-yellow-C11.jpg"
         }
     },
@@ -198,14 +198,14 @@
         "pk": 15,
         "model": "products.product",
         "fields": {
-            "sku": "0040020060001",
-            "name": "Classic yellow cappuccino cup",
-            "description": "S",
-            "price": 2.99,
-            "category": 4,
-            "rating": 4.1,
+            "sku": "",
+            "name": "",
+            "description": "THIS WAS DUPLICATION OF PK 14 ABOVE - CHANGE OR DELETE",
+            "price": ,
+            "category": ,
+            "rating": ,
             "image_url": "",
-            "image": "cup-chino-yellow-C11.jpg"
+            "image": ""
         }
     },
     {
@@ -218,7 +218,7 @@
             "price": 2.79,
             "category": 4,
             "rating": 3.8,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/clear-glass-teacup-with-coffee-beverage-2299028/",
             "image": "cup-esp-glass-vict-C10.jpg"
         }
     },
@@ -232,7 +232,7 @@
             "price": 1.99,
             "category": 4,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/white-ceramic-mug-and-saucer-685527/",
             "image": "cup-esp-white-C01.jpg"
         }
     },
@@ -246,7 +246,7 @@
             "price": 1.99,
             "category": 4,
             "rating": 4.0,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/latte-in-cup-2648988/",
             "image": "cup-esp-white-C03.jpg"
         }
     },
@@ -260,7 +260,7 @@
             "price": 3.99,
             "category": 3,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/brown-ceramic-mug-with-brown-liquid-inside-3277951/",
             "image": "cup-nor-brown-C02.jpg"
         }
     },
@@ -274,7 +274,7 @@
             "price": 9.99,
             "category": 2,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/photo-of-a-french-press-coffee-maker-12247242/",
             "image": "maker-french-glass-wood.M02.jpg"
         }
     },
@@ -288,7 +288,7 @@
             "price": 19.99,
             "category": 2,
             "rating": 4.6,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/retro-geyser-coffee-maker-placed-on-gas-stove-4424675/",
             "image": "maker-moka-bialetti-M05.jpg"
         }
     },
@@ -302,7 +302,7 @@
             "price": 14.50,
             "category": 2,
             "rating": 4.0,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/photo-of-a-moka-pot-on-a-white-surface-4262634/                                  ",
             "image": "maker-moka-sil-round-M03.jpg"
         }
     },
@@ -316,7 +316,7 @@
             "price": 9.50,
             "category": 2,
             "rating": 3.9,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/woman-pouring-water-2616172/",
             "image": "maker-pour-glass-wood-M01.jpg"
         }
     },
@@ -330,7 +330,7 @@
             "price": 19.50,
             "category": 2,
             "rating": 4.5,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
             "image": "maker-siphon-collectors-M04.jpg"
         }
     },
@@ -344,7 +344,7 @@
             "price": 3.50,
             "category": 3,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/black-ceramic-mug-3483967/",
             "image": "mug-mes-black-style-G01.jpg"
         }
     },
@@ -358,7 +358,7 @@
             "price": 5.50,
             "category": 3,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/close-up-photo-of-black-ceramic-mug-3806690/",
             "image": "mug-mes-black-win-G03.jpg"
         }
     },
@@ -372,7 +372,7 @@
             "price": 4.80,
             "category": 3,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/brown-and-white-ceramic-mug-910086/",
             "image": "mug-mes-brown-latte-G04.jpg"
         }
     },
@@ -386,7 +386,7 @@
             "price": 4.50,
             "category": 3,
             "rating": 4.2,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/white-ceramic-mug-on-gray-cloth-3335613/",
             "image": "mug-mes-grey-possible-G07.jpg"
         }
     },
@@ -400,7 +400,7 @@
             "price": 3.79,
             "category": 3,
             "rating": 3.9,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/white-coffee-mug-on-brown-surface-1207918/",
             "image": "mug-mes-offwhite-perfect-G08.jpg"
         }
     },
@@ -414,7 +414,7 @@
             "price": 3.50,
             "category": 3,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/selective-focus-photography-of-person-holding-mug-1755215/",
             "image": "mug-mes-white-unicorn-G09.jpg"
         }
     },
@@ -428,7 +428,7 @@
             "price": 4.20,
             "category": 3,
             "rating": 4.7,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/brown-liquid-pouring-on-black-and-white-ceramic-mug-selective-color-photography-1235706/",
             "image": "mug-plain-black-G10.jpg"
         }
     },
@@ -442,7 +442,7 @@
             "price": 4.30,
             "category": 3,
             "rating": 4.6,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/photo-of-a-hand-holding-out-a-steaming-cup-2228889/",
             "image": "mug-plain-orange-G02.jpg"
         }
     },
@@ -456,7 +456,7 @@
             "price": 7.99,
             "category": 3,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/two-white-ceramic-mugs-shallow-focus-photography-593332/",
             "image": "mug-plain-white-double-G05.jpg"
         }
     },
@@ -470,7 +470,7 @@
             "price": 0.99,
             "category": 3,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/person-holding-cup-of-coffee-2128017/",
             "image": "runcup-black-clock-R02.jpg"
         }
     },
@@ -484,7 +484,7 @@
             "price": 5.50,
             "category": 3,
             "rating": 4.6,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/person-holding-starbucks-coffee-tumbler-2744760/",
             "image": "runcup-black-peace-R01.jpg"
         }
     },
@@ -498,7 +498,7 @@
             "price": 1.20,
             "category": 3,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/photo-of-coffee-cup-on-wooden-surface-2128023/",
             "image": "runcup-pink-hug-R03.jpg"
         }
     },
@@ -512,7 +512,7 @@
             "price": 6.00,
             "category": 3,
             "rating": 4.8,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/oh-lord-coffee-please-purple-and-pink-cup-209428/",
             "image": "runcup-pink-lord-R04.jpg"
         }
     },
@@ -526,7 +526,7 @@
             "price": 12.50,
             "category": 5,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/person-pouring-coffee-on-a-mug-3473488/",
             "image": "set-drip-cup-white-S06.jpg"
         }
     },
@@ -540,7 +540,7 @@
             "price": 13.50,
             "category": 5,
             "rating": 4.1,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/clear-glass-pitcher-with-brown-liquid-inside-3749174/",
             "image": "set-drip-glass-double-S08.jpg"
         }
     },
@@ -554,7 +554,7 @@
             "price": 23.50,
             "category": 5,
             "rating": 4.7,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/a-high-angle-shot-of-cup-of-coffee-and-black-moka-pot-on-white-chair-10126670/",
             "image": "set-moka-black-cup-white-S04.jpg"
         }
     },
@@ -568,7 +568,7 @@
             "price": 18.00,
             "category": 5,
             "rating": 4.0,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/morning-coffee-from-moka-pot-with-mountain-view-12267021/",
             "image": "set-moka-camp-mugs-S10.jpg"
         }
     },
@@ -596,7 +596,7 @@
             "price": 19.80,
             "category": 5,
             "rating": 4.6,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/person-holding-a-moka-pot-pouring-brown-liquid-in-clear-drinking-glass-5662295/",
             "image": "set-moka-glass-S07.jpg"
         }
     },
@@ -610,7 +610,7 @@
             "price": 20.50,
             "category": 5,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/a-person-pouring-coffee-on-a-ceramic-cup-4472882/",
             "image": "set-press-cup-white-S02.jpg"
         }
     },
@@ -624,7 +624,7 @@
             "price": 21.50,
             "category": 5,
             "rating": 4.4,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/french-press-and-a-ceramic-mug-7300957/",
             "image": "set-press-mug-white.S05.jpg"
         }
     },
@@ -638,7 +638,7 @@
             "price": 19.60,
             "category": 5,
             "rating": 3.9,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/pouring-coffee-outside-early-in-the-morning-4015540/",
             "image": "set-press-silver-mug-camp-S03.jpg"
         }
     },
@@ -652,7 +652,7 @@
             "price": 23.00,
             "category": 5,
             "rating": 4.7,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/photo/photo-of-person-pouring-brewed-coffee-on-ceramic-mug-7488698/",
             "image": "set-press-wood-cup-min-S09.jpg"
         }
     }
