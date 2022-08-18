@@ -5,9 +5,9 @@
                 All Products
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">By Price</a>
-                <a href="" class="dropdown-item ">By Rating</a>
-                <a href="" class="dropdown-item ">By Category</a>
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Products</a>
             </div>
         </li>
@@ -17,10 +17,10 @@
                 Beans
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="beans-link">
-                <a href="{% url 'products' %}?category=arabica" class="dropdown-item">Arabica beans</a>
-                <a href="{% url 'products' %}?category=robusta" class="dropdown-item">Robusta beans</a>
-                <a href="{% url 'products' %}?category=liberica" class="dropdown-item">Liberica beans</a>
-                <a href="{% url 'products' %}?category=beans,arabica,robusta,liberica" class="dropdown-item">All Beans</a>
+                <a href="{% url 'products' %}?category=arabica_beans" class="dropdown-item">Arabica beans</a>
+                <a href="{% url 'products' %}?category=robusta_beans" class="dropdown-item">Robusta beans</a>
+                <a href="{% url 'products' %}?category=liberica_beans" class="dropdown-item">Liberica beans</a>
+                <a href="{% url 'products' %}?category=beans,arabica_beans,robusta_beans,liberica_beans" class="dropdown-item">All Beans</a>
             </div>
         </li>
 
@@ -29,9 +29,9 @@
                 Coffee Makers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="coffeemaker-link">
-                <a href="{% url 'products' %}?category=french_press,plungers" class="dropdown-item">French press / Plungers </a>
+                <a href="{% url 'products' %}?category=french_press,plunger" class="dropdown-item">French press / Plungers </a>
                 <a href="{% url 'products' %}?category=pour_over,drip_coffee" class="dropdown-item">Pour over / Drip coffee</a>
-                <a href=" {% url 'products' %}?category=moka_pot" class="dropdown-item">Moka Pot</a>
+                <a href="{% url 'products' %}?category=moka_pot" class="dropdown-item">Moka Pot</a>
                 <a href="{% url 'products' %}?category=siphon_pot" class="dropdown-item">Siphon Pot</a>
                 <a href="{% url 'products' %}?category=coffeemaker,french_press,plungers,pour_over,drip_coffee,moka_pot,siphon_pot" class="dropdown-item">All Coffee Makers</a>
             </div>
@@ -45,7 +45,7 @@
                 <a href="{% url 'products' %}?category=messages_mugs" class="dropdown-item">Messages Mugs</a>
                 <a href="{% url 'products' %}?category=mugs_on_the_move" class="dropdown-item">Mugs on the Move</a>
                 <a href="{% url 'products' %}?category=mugs_and_cups" class="dropdown-item">Mugs and Cups</a>
-                <a href="{% url 'products' %}?category=messages_mugs,mugs_on_the_move,mugs_and_cups" class="dropdown-item">All Coffee Mugs and Cups</a>
+                <a href="{% url 'products' %}?category=messages_mugs,cups,mug,cup,mugs_on_the_move,mugs_and_cups" class="dropdown-item">All Coffee Mugs and Cups</a>
             </div>
         </li>
 

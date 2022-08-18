@@ -4,8 +4,7 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Arabica Beans, Brazil 500 grams",
-            "description": "These Arabica coffee beans from Brazil have a sweeter, softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher, with that winey taste that characterizes coffee with excellent acidity. These beans
-            are some of the best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
+            "description": "These Arabica coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
             "price": 15.00,
             "category": 1,
             "rating": 4.8,
@@ -19,7 +18,7 @@
         "fields": {
             "sku": "0010050000021",
             "name": "Arabica Beans, Colombia 500 grams",
-            "description": "S    ",
+            "description": "These Colombian Arabica coffee beans boast tasting notes of chocolate, nuts, herbs and fruit. They have a citrus acidity and will produce a mild and well balanced coffee with a medium silky-body. We suggest a medium roast, however these beans will also handle a dark roast very well.",
             "price": 16.25,
             "category": 1,
             "rating": 4.9,
@@ -33,7 +32,7 @@
         "fields": {
             "sku": "0010060000031",
             "name": "Liberica Beans, Malaysia 500 grams",
-            "description": "S",
+            "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional arroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
             "price": 11.99,
             "category": 1,
             "rating": 4.1,
