@@ -4,7 +4,8 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Arabica Beans, Brazil 500 grams",
-            "description": "   Brazil is one of the top coffee producing countries. the premium quality of the product. The coffee produced in Brazil is often preferred because it has low acidity.",
+            "description": "These Arabica coffee beans from Brazil have a sweeter, softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher, with that winey taste that characterizes coffee with excellent acidity. These beans
+            are some of the best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
             "price": 15.00,
             "category": 1,
             "rating": 4.8,
@@ -198,12 +199,12 @@
         "pk": 15,
         "model": "products.product",
         "fields": {
-            "sku": "",
+            "sku": "004002006000100",
             "name": "",
             "description": "THIS WAS DUPLICATION OF PK 14 ABOVE - CHANGE OR DELETE",
-            "price": ,
-            "category": ,
-            "rating": ,
+            "price": 2.85,
+            "category": 4,
+            "rating": 4.2,
             "image_url": "",
             "image": ""
         }
