@@ -34,7 +34,7 @@
             "name": "Liberica Beans, Malaysia 500 grams",
             "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional arroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
             "price": 11.99,
-            "category": 1,
+            "category": 2,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/beans-on-tray-2131905/",
             "image": "beans-liberica-malaysia-B03.jpg"
@@ -48,7 +48,7 @@
             "name": "Liberica Beans, Philippines 500 grams",
             "description": "S",
             "price": 12.50,
-            "category": 1,
+            "category": 2,
             "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/coffee-beans-beside-tea-spoon-2283596/",
             "image": "beans-liberica-philippines-B06.jpg"
@@ -62,7 +62,7 @@
             "name": "Robusta Beans, Kenya 500 grams",
             "description": "S",
             "price": 12.99,
-            "category": 1,
+            "category": 3,
             "rating": 4.3,
             "image_url": "https://www.pexels.com/photo/coffee-beans-1695052/",
             "image": "beans-robusta-kenya-B05.jpg"
@@ -76,7 +76,7 @@
             "name": "Robusta Beans, Vietnam 500 grams",
             "description": "S",
             "price": 12.99,
-            "category": 1,
+            "category": 3,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/coffee-beans-861090/",
             "image": "beans-robusta-vietnam-B04.jpg"
@@ -88,8 +88,14 @@
         "fields": {
             "sku": "0040020010001",
             "name": "Classic black cappuccino cup",
-            "description": "S",
-            "price": 2.99,
+            "description": "This cappuccino cup and saucer by JeanCara has a clean and classic expression that fits well for the morning and afternoon coffee.
+            Brand: JeanCara
+            Colour: black
+            Finish: gloss
+            Capacity: 280ml
+            Material: porcelain
+            Microwave safe. Dishwasher safe.",
+            "price": 3.99,
             "category": 4,
             "rating": 4.5,
             "image_url": "https://www.pexels.com/photo/close-up-of-coffee-cup-on-table-312418/",
@@ -102,7 +108,13 @@
         "fields": {
             "sku": "0040020020001",
             "name": "Classic light blue cappuccino cup",
-            "description": "S",
+            "description": "This cheeky cappuccino cup and saucer by Nay-dene is ideal for everyday use, whether it is for your morning cup or your after dinner coffee. 
+            Brand: Nay-dene
+            Colour: light blue
+            Finish: gloss
+            Capacity: 200ml
+            Material: ceramic
+            Microwave safe. Dishwasher safe.",
             "price": 2.99,
             "category": 4,
             "rating": 4.4,
@@ -116,7 +128,13 @@
         "fields": {
             "sku": "0040020030001",
             "name": "Classic cream cappuccino cup",
-            "description": "S",
+            "description": "This classic cappuccino cup and saucer by KayViss is made of high quality porcelain, it has a timeless expression and fits all types of table settings. 
+            Brand: KayViss
+            Colour: cream
+            Finish: gloss
+            Capacity: 280ml
+            Material: porcelain
+            Microwave safe. Dishwasher safe.",
             "price": 2.99,
             "category": 4,
             "rating": 4.3,
@@ -130,10 +148,16 @@
         "fields": {
             "sku": "0040020040001",
             "name": "Classic green cappuccino cup",
-            "description": "S",
-            "price": 2.99,
+            "description": "This modern cappuccino cup and saucer set by MickeV. is not only beautiful but is also made of the highest quality porcelain.  This set will last you a lifetime.
+            Brand: MickeV.
+            Colour: green
+            Finish: semi gloss
+            Capacity: 350ml
+            Material: porcelain
+            Microwave safe. Dishwasher safe. ",
+            "price": 5.99,
             "category": 4,
-            "rating": 3.9,
+            "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/green-and-black-ceramic-bowl-2318033/",
             "image": "cup-chino-green-C04.jpg"
         }
@@ -144,8 +168,13 @@
         "fields": {
             "sku": "0040020050001",
             "name": "Classic orange cappuccino cup",
-            "description": "S",
-            "price": 2.99,
+            "description": "This bright cappuccino cup and saucer by KayViss has a handcrafted design in ceramic and is perfect for those hot coffees. It has a big ear on the side for easy use. Due to the carefully handcrafted design, every product is unique and small variations may occur.
+            Brand: KayViss
+            Colour: shades of orange
+            Finish: matte
+            Capacity: 350ml
+            Material: ceramic ",
+            "price": 4.99,
             "category": 4,
             "rating": 4.5,
             "image_url": "https://www.pexels.com/photo/brown-ceramic-coffee-mug-on-saucer-362572/",
@@ -158,8 +187,14 @@
         "fields": {
             "sku": "0040020110001",
             "name": "Classic turquoise and yellow cappuccino cup",
-            "description": "S",
-            "price": 2.99,
+            "description": "This modern cappuccino cup and saucer set by MickeV. is not only beautiful but is also made of the highest quality porcelain.  This set will last you a lifetime.
+            Brand: MickeV.
+            Colour: turquoise and yellow 
+            Finish: semi gloss
+            Capacity: 350ml
+            Material: porcelain
+            Microwave safe. Dishwasher safe. ",
+            "price": 5.99,
             "category": 4,
             "rating": 4.7,
             "image_url": "https://www.pexels.com/photo/cappuccino-cup-on-saucer-with-teaspoon-2067432/",
@@ -172,8 +207,14 @@
         "fields": {
             "sku": "0040020070001",
             "name": "Classic white cappuccino cup",
-            "description": "S",
-            "price": 2.19,
+            "description": "This cappuccino cup and saucer by JeanCara has a clean and classic expression that fits well for the morning and afternoon coffee.
+            Brand: JeanCara
+            Colour: black
+            Finish: gloss
+            Capacity: 280ml
+            Material: porcelain
+            Microwave safe. Dishwasher safe.",
+            "price": 3.29,
             "category": 4,
             "rating": 4.0,
             "image_url": "https://www.pexels.com/photo/beverage-break-breakfast-brown-414630/",
@@ -186,8 +227,14 @@
         "fields": {
             "sku": "0040020060001",
             "name": "Classic yellow cappuccino cup",
-            "description": "S",
-            "price": 2.99,
+            "description": "This oversized cappuccino cup by Nay-dene is ideal for everyday use, whether it is for your morning cup or your afternoon coffee. 
+            Brand: Nay-dene
+            Colour: bright yellow
+            Finish: semi gloss
+            Capacity: 400ml
+            Material: ceramic
+            Microwave safe. Dishwasher safe.",
+            "price": 4.99,
             "category": 4,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/espresso-machine-dispensing-on-two-mugs-2067628/",
@@ -214,10 +261,16 @@
         "fields": {
             "sku": "0040010002011",
             "name": "Victorian glass espresso cup",
-            "description": "S",
-            "price": 2.79,
-            "category": 4,
-            "rating": 3.8,
+            "description": "This victorian lungo cup is made of premium quality glass, which is more durable, stronger and scratch-resistance than normal glass. With a thickening sturdy construction, these coffee cups can be safely used in daily life.
+            Brand: MissD
+            Colour: clear
+            Finish: n/a
+            Capacity: 180ml
+            Material: 100% lead-free glass
+            Microwave safe. Dishwasher safe. ",
+            "price": 4.79,
+            "category": 5,
+            "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/clear-glass-teacup-with-coffee-beverage-2299028/",
             "image": "cup-esp-glass-vict-C10.jpg"
         }
@@ -230,7 +283,7 @@
             "name": "Classic white espresso cup",
             "description": "S",
             "price": 1.99,
-            "category": 4,
+            "category": 5,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/white-ceramic-mug-and-saucer-685527/",
             "image": "cup-esp-white-C01.jpg"
@@ -244,7 +297,7 @@
             "name": "Classic white espresso cup",
             "description": "S",
             "price": 1.99,
-            "category": 4,
+            "category": 5,
             "rating": 4.0,
             "image_url": "https://www.pexels.com/photo/latte-in-cup-2648988/",
             "image": "cup-esp-white-C03.jpg"
@@ -258,7 +311,7 @@
             "name": "Wood textured brown coffee mug",
             "description": "S",
             "price": 3.99,
-            "category": 3,
+            "category": 9,
             "rating": 4.4,
             "image_url": "https://www.pexels.com/photo/brown-ceramic-mug-with-brown-liquid-inside-3277951/",
             "image": "cup-nor-brown-C02.jpg"
@@ -272,7 +325,7 @@
             "name": "Glass and wood french press",
             "description": "S",
             "price": 9.99,
-            "category": 2,
+            "category": 10,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/photo-of-a-french-press-coffee-maker-12247242/",
             "image": "maker-french-glass-wood.M02.jpg"
@@ -286,7 +339,7 @@
             "name": "Bialetti moka pot",
             "description": "S",
             "price": 19.99,
-            "category": 2,
+            "category": 11,
             "rating": 4.6,
             "image_url": "https://www.pexels.com/photo/retro-geyser-coffee-maker-placed-on-gas-stove-4424675/",
             "image": "maker-moka-bialetti-M05.jpg"
@@ -300,7 +353,7 @@
             "name": "Vintage round moka pot",
             "description": "S",
             "price": 14.50,
-            "category": 2,
+            "category": 11,
             "rating": 4.0,
             "image_url": "https://www.pexels.com/photo/photo-of-a-moka-pot-on-a-white-surface-4262634/                                  ",
             "image": "maker-moka-sil-round-M03.jpg"
@@ -314,7 +367,7 @@
             "name": "Pour-over drip filter",
             "description": "S",
             "price": 9.50,
-            "category": 2,
+            "category": 12,
             "rating": 3.9,
             "image_url": "https://www.pexels.com/photo/woman-pouring-water-2616172/",
             "image": "maker-pour-glass-wood-M01.jpg"
@@ -328,7 +381,7 @@
             "name": "Collector's edition siphon coffee maker",
             "description": "S",
             "price": 19.50,
-            "category": 2,
+            "category": 13,
             "rating": 4.5,
             "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
             "image": "maker-siphon-collectors-M04.jpg"
@@ -342,7 +395,7 @@
             "name": "Black coffee mug",
             "description": "S",
             "price": 3.50,
-            "category": 3,
+            "category": 9,
             "rating": 4.4,
             "image_url": "https://www.pexels.com/photo/black-ceramic-mug-3483967/",
             "image": "mug-mes-black-style-G01.jpg"
@@ -370,7 +423,7 @@
             "name": "Brown coffee mug",
             "description": "S",
             "price": 4.80,
-            "category": 3,
+            "category": 9,
             "rating": 4.4,
             "image_url": "https://www.pexels.com/photo/brown-and-white-ceramic-mug-910086/",
             "image": "mug-mes-brown-latte-G04.jpg"
@@ -384,7 +437,7 @@
             "name": "Grey coffee mug",
             "description": "S",
             "price": 4.50,
-            "category": 3,
+            "category": 9,
             "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/white-ceramic-mug-on-gray-cloth-3335613/",
             "image": "mug-mes-grey-possible-G07.jpg"
@@ -398,7 +451,7 @@
             "name": "Off white coffee mug with message",
             "description": "S",
             "price": 3.79,
-            "category": 3,
+            "category": 14,
             "rating": 3.9,
             "image_url": "https://www.pexels.com/photo/white-coffee-mug-on-brown-surface-1207918/",
             "image": "mug-mes-offwhite-perfect-G08.jpg"

@@ -3,43 +3,120 @@
         "pk": 1,
         "model": "products.category",
         "fields": {
-            "name": "beans",
-            "friendly_name": "Beans"
+            "name": "arabica_beans",
+            "friendly_name": "Arabica Beans"
         }
     },
     {
         "pk": 2,
         "model": "products.category",
         "fields": {
-            "name": "coffee_makers",
-            "friendly_name": "Coffee makers"
+            "name": "liberica_beans",
+            "friendly_name": "Liberica Beans"
         }
     },
     {
         "pk": 3,
         "model": "products.category",
         "fields": {
-            "name": "mugs",
-            "friendly_name": "Mugs"
+            "name": "robusta_beans",
+            "friendly_name": "Robusta Beans"
         }
     },
     {
         "pk": 4,
         "model": "products.category",
         "fields": {
-            "name": "cups",
-            "friendly_name": "Cups"
+            "name": "cappuccino_cup",
+            "friendly_name": "Cappuccino Cup"
         }
     },
     {
         "pk": 5,
         "model": "products.category",
         "fields": {
-            "name": "sets",
-            "friendly_name": "Sets"
+            "name": "espresso_cup",
+            "friendly_name": "Espresso Cup"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.category",
+        "fields": {
+            "name": "coffee_cup",
+            "friendly_name": "Coffee Cup"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.category",
+        "fields": {
+            "name": "otg_coffee_cup",
+            "friendly_name": "On the Go Coffee Cup"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.category",
+        "fields": {
+            "name": "disposable_coffee_cup",
+            "friendly_name": "Disposable Coffee Cup"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.category",
+        "fields": {
+            "name": "coffee_mug",
+            "friendly_name": "Coffee Mug"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.category",
+        "fields": {
+            "name": "french_press",
+            "friendly_name": "French Press"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.category",
+        "fields": {
+            "name": "moka_pot",
+            "friendly_name": "Moka Pot"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.category",
+        "fields": {
+            "name": "drip_filter",
+            "friendly_name": "Drip Filter"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.category",
+        "fields": {
+            "name": "siphon_coffee_maker",
+            "friendly_name": "Siphon Coffee Maker"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.category",
+        "fields": {
+            "name": "message_coffee_mug",
+            "friendly_name": "Message Coffee Mug"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.category",
+        "fields": {
+            "name": "make_cup_set",
+            "friendly_name": "Maker and Cup Set"
         }
     }
 ]
-
-
-
