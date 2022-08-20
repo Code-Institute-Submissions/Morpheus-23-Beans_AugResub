@@ -680,7 +680,7 @@
             "price": 15.00,
             "category": 16,
             "rating": 4,
-            "image_url": "https://www.pexels.com/photo/scattered-roasted-coffee-beans-8619323/",
+            "image_url": "https://www.pexels.com/search/coffee%20bean/",
             "image": "beans-special-once-B07.jpg"
         }
     },

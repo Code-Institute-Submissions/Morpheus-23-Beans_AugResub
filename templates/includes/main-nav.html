@@ -20,7 +20,7 @@
                 <a href="{% url 'products' %}?category=arabica_beans" class="dropdown-item">Arabica beans</a>
                 <a href="{% url 'products' %}?category=liberica_beans" class="dropdown-item">Liberica beans</a>
                 <a href="{% url 'products' %}?category=robusta_beans" class="dropdown-item">Robusta beans</a>
-                <a href="{% url 'products' %}?category=arabica_beans,liberica_beans,robusta_beans" class="dropdown-item">All Beans</a>
+                <a href="{% url 'products' %}?category=arabica_beans,liberica_beans,robusta_beans,once_off_beans" class="dropdown-item">All Beans</a>
             </div>
         </li>
 
@@ -61,7 +61,7 @@
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
                 <a href="{% url 'products' %}?category=once_off_beans" class="dropdown-item">Once off beans</a>
                 <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
-                <a href="{% url 'products' %}?category=coffee_make_cup_set,once_off_beans,clearance" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=once_off_beans,clearance" class="dropdown-item">All Specials</a>
             </div>
         </li>
     </ul>
