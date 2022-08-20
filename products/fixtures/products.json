@@ -342,7 +342,7 @@
             "name": "Black coffee mug",
             "description": "S",
             "price": 3.50,
-            "category": 9,
+            "category": 14,
             "rating": 4.4,
             "image_url": "https://www.pexels.com/photo/black-ceramic-mug-3483967/",
             "image": "mug-mes-black-style-G01.jpg"
@@ -384,7 +384,7 @@
             "name": "Grey coffee mug",
             "description": "S",
             "price": 4.50,
-            "category": 9,
+            "category": 14,
             "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/white-ceramic-mug-on-gray-cloth-3335613/",
             "image": "mug-mes-grey-possible-G07.jpg"
