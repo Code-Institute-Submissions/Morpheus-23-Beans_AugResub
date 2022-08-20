@@ -185,10 +185,10 @@
         "model": "products.product",
         "fields": {
             "sku": "0040020060001",
-            "name": "Classic yellow cappuccino cup",
-            "description": "This oversized cappuccino cup by Nay-dene is ideal for everyday use, whether it is for your morning cup or your afternoon coffee. Brand: Nay-dene, Colour: bright yellow, Finish: semi gloss, Capacity: 400ml, Material: ceramic, Microwave safe, Dishwasher safe.",
+            "name": "Classic yellow cup",
+            "description": "This oversized cup by Nay-dene is ideal for everyday use, whether it is for your morning cup or your afternoon coffee. Brand: Nay-dene, Colour: bright yellow, Finish: semi gloss, Capacity: 400ml, Material: ceramic, Microwave safe, Dishwasher safe.",
             "price": 4.99,
-            "category": 4,
+            "category": 6,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/espresso-machine-dispensing-on-two-mugs-2067628/",
             "image": "cup-chino-yellow-C11.jpg"
@@ -200,11 +200,11 @@
         "fields": {
             "sku": "004002006000100",
             "name": "",
-            "description": "THIS WAS DUPLICATION OF PK 14 ABOVE - CHANGE OR DELETE",
-            "price": 2.85,
-            "category": 4,
+            "description": "glass mug",
+            "price": 1.85,
+            "category": 17,
             "rating": 4.2,
-            "image_url": "",
+            "image_url": "https://www.pexels.com/@skyelah-vs-213770678/downloads/",
             "image": ""
         }
     },
@@ -324,13 +324,13 @@
         "pk": 24,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000001",
+            "sku": "0020010000001-------",
             "name": "Collector's edition siphon coffee maker",
             "description": "S",
-            "price": 19.50,
+            "price": 32.50,
             "category": 13,
-            "rating": 4.5,
-            "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
+            "rating": 4.9,
+            "image_url": "https://www.pexels.com/photo/half-full-clear-glass-mug-beside-coffee-machine-2878709/",
             "image": "maker-siphon-collectors-M04.jpg"
         }
     },
@@ -655,5 +655,19 @@
             "image_url": "https://www.pexels.com/photo/photo-of-person-pouring-brewed-coffee-on-ceramic-mug-7488698/",
             "image": "set-press-wood-cup-min-S09.jpg"
         }
-    }
+    },
+    {
+        "pk": 48,
+        "model": "products.product",
+        "fields": {
+            "sku": "0020010000001----",
+            "name": "Premium siphon coffee maker",
+            "description": "S",
+            "price": 19.50,
+            "category": 13,
+            "rating": 4.5,
+            "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
+            "image": "maker-siphon-premium-M06.jpg"
+        }
+    },
 ]
