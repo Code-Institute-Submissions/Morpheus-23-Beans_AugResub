@@ -20,6 +20,7 @@
                 <a href="{% url 'products' %}?category=arabica_beans" class="dropdown-item">Arabica beans</a>
                 <a href="{% url 'products' %}?category=liberica_beans" class="dropdown-item">Liberica beans</a>
                 <a href="{% url 'products' %}?category=robusta_beans" class="dropdown-item">Robusta beans</a>
+                <a href="{% url 'products' %}?category=once_off_beans" class="dropdown-item">Once off beans</a>
                 <a href="{% url 'products' %}?category=arabica_beans,liberica_beans,robusta_beans,once_off_beans" class="dropdown-item">All Beans</a>
             </div>
         </li>
@@ -48,7 +49,7 @@
                 <a href="{% url 'products' %}?category=coffee_cup" class="dropdown-item">Cups</a>
                 <a href="{% url 'products' %}?category=coffee_mug" class="dropdown-item">Mugs</a>
                 <a href="{% url 'products' %}?category=message_coffee_mug" class="dropdown-item">Messages Mugs</a>
-                <a href="{% url 'products' %}?category=otg_coffee_cup" class="dropdown-item">Mugs on the Move</a>
+                <a href="{% url 'products' %}?category=otg_coffee_cup" class="dropdown-item">Cups on the Move</a>
                 <a href="{% url 'products' %}?category=disposable_coffee_cup" class="dropdown-item">Disposable Cups</a>
                 <a href="{% url 'products' %}?category=cappuccino_cup,espresso_cup,coffee_cup,coffee_mug,message_coffee_mug,otg_coffee_cup, disposable_coffee_cup," class="dropdown-item">All Coffee Mugs and Cups</a>
             </div>
@@ -59,9 +60,9 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="{% url 'products' %}?category=once_off_beans" class="dropdown-item">Once off beans</a>
+                <a href="{% url 'products' %}?category=end_of_range" class="dropdown-item">End of Range</a>
                 <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
-                <a href="{% url 'products' %}?category=once_off_beans,clearance" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=end_of_range,clearance" class="dropdown-item">All Specials</a>
             </div>
         </li>
     </ul>

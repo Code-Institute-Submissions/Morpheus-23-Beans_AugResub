@@ -134,5 +134,13 @@
             "name": "clearance",
             "friendly_name": "Clearance"
         }
+    },
+    {
+        "pk": 18,
+        "model": "products.category",
+        "fields": {
+            "name": "end_of_range",
+            "friendly_name": "End of Range"
+        }
     }
 ]
