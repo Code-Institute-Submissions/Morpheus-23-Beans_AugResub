@@ -118,5 +118,21 @@
             "name": "make_cup_set",
             "friendly_name": "Maker and Cup Set"
         }
+    },
+    {
+        "pk": 16,
+        "model": "products.category",
+        "fields": {
+            "name": "once_off_beans",
+            "friendly_name": "Once off beans"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.category",
+        "fields": {
+            "name": "clearance",
+            "friendly_name": "Clearance"
+        }
     }
 ]
