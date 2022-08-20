@@ -324,7 +324,7 @@
         "pk": 24,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000001",
+            "sku": "0020010000000",
             "name": "Collector's edition siphon coffee maker",
             "description": "S",
             "price": 32.50,
@@ -668,6 +668,34 @@
             "rating": 4.5,
             "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
             "image": "maker-siphon-premium-M06.jpg"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010050000011",
+            "name": "C Beans, Brazil 500 grams",
+            "description": "These coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
+            "price": 15.00,
+            "category": 16,
+            "rating": 4,
+            "image_url": "https://www.pexels.com/photo/scattered-roasted-coffee-beans-8619323/",
+            "image": "beans-special-once-B07.jpg"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "products.product",
+        "fields": {
+            "sku": "0010050000011",
+            "name": "C Beans, Brazil 500 grams",
+            "description": "These  coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
+            "price": 15.00,
+            "category": 16,
+            "rating": 4.2,
+            "image_url": "https://www.pexels.com/photo/coffee-beans-in-ceramic-cup-on-white-cloth-7752766/",
+            "image": "beans-special-once-B08.jpg"
         }
     }
 ]
