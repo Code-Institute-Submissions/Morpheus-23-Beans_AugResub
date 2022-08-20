@@ -199,13 +199,13 @@
         "model": "products.product",
         "fields": {
             "sku": "004002006000100",
-            "name": "",
+            "name": "Glass mug",
             "description": "glass mug",
             "price": 1.85,
             "category": 17,
             "rating": 4.2,
-            "image_url": "https://www.pexels.com/@skyelah-vs-213770678/downloads/",
-            "image": ""
+            "image_url": "https://www.pexels.com/photo/glass-cup-with-liquid-3556686/",
+            "image": "mug-plain-glass-G11.jpg"
         }
     },
     {
@@ -324,7 +324,7 @@
         "pk": 24,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000001-------",
+            "sku": "0020010000001",
             "name": "Collector's edition siphon coffee maker",
             "description": "S",
             "price": 32.50,
@@ -660,7 +660,7 @@
         "pk": 48,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000001----",
+            "sku": "0020010000001",
             "name": "Premium siphon coffee maker",
             "description": "S",
             "price": 19.50,
@@ -669,5 +669,5 @@
             "image_url": "https://www.pexels.com/photo/professional-vacuum-coffeemaker-on-table-6851001/",
             "image": "maker-siphon-premium-M06.jpg"
         }
-    },
+    }
 ]
