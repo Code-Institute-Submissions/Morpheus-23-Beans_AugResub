@@ -22,12 +22,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# mariska-onseker SECRET_KEY = os.environ.get('SECRET_KEY', '')  /  
+# mariska-onseker SECRET_KEY = os.environ.get('SECRET_KEY', '')  /
 
 SECRET_KEY = ')&swdi2+ma@g*8%cyjdyed#2-0o@!rg=*c+zao+)6)8q8t)-66'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# mariska-onseker DEBUG = 'DEVELOPMENT' in os.environ  /   
+# mariska-onseker DEBUG = 'DEVELOPMENT' in os.environ  /
 
 DEBUG = True
 
@@ -171,7 +171,7 @@ if 'USE_AWS' in os.environ:
         'Expires': 'Thu, 31 Dec 2099 23:00:00 GMT',
         'CacheControl': 'max-age=94608000',
     }
-    
+
     # Bucket Config
     AWS_STORAGE_BUCKET_NAME = 'beans2beans'
     AWS_S3_REGION_NAME = 'eu-central-1'
@@ -188,7 +188,7 @@ if 'USE_AWS' in os.environ:
     # Override static and media URLs in production
     STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/'
     MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{MEDIAFILES_LOCATION}/'
-    
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
