@@ -10,9 +10,35 @@
 {% endblock %}
 
 {% block content %}
+<div class="overlay"></div>
+<div class="container mb-2">
+    <div class="row">
+        <div class="col">
+            <hr>
+            <h2 class="logo-font mb-4">Shopping Bag</h2>
+            <hr>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            {% if bag_items %}
+                <div class="table-responsive rounded"></div>
+            {% else %}
+                <p class="lead mb-5 text-brown text-center">Oh no, this bag is empty!</p>
+
+                <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 btn-lg">
+                    <span class="text-center text-brown">Continue shopping <i class="fa-solid fa-cart-shopping"></i>
+                    </span>
+                </a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
 <footer id="footer-other">
-    <div class="container-fluid position-absolute text-center">
-        <h3 class=" text-brown text-lowercase">...you must make the coffee you wish to drink...</h3>
+    <div class="container-fluid fixed-bottom text-center">
+        <h3 class=" text-orange text-lowercase">...you must make the coffee you wish to drink...</h3>
     </div>
 </footer>
 

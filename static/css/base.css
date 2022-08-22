@@ -7,7 +7,7 @@ font-family: 'Fira Sans Condensed', sans-serif;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 */
 body {
-    background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
+    background: url('/media/homepage_background.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 155px);
     color: orangered;
@@ -163,21 +163,8 @@ a.category-badge > span.badge:hover {
 
 }    
 
-#footqoute {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-size: calc(4vw + 4vh + 2vmin) !important;
-}
 
-
-
-footer being sorted out.....
-    position:absolute;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-size: calc(4vw + 4vh + 2vmin) !important;
-}
-
+    position: absolute;
 
 
 /* -------------------------------- Media Queries */
