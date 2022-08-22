@@ -52,20 +52,35 @@ body {
     min-width: 240px;
 }
 
-.btn-gray {
-    background: lightgray;
-    color: orangered;
-}
-
 .order-now-button:hover,
 .order-now-button:active,
 .order-now-button:focus,
 .btn-gray:hover,
 .btn-gray:active,
 .btn-gray:focus {
-    background: gray;
+    background: lightgray;
     color: orangered;
 }
+
+.btn-gray {
+    background: lightgray;
+    color: orangered;
+}
+
+.btn-outline.gray {
+    background: orangered;
+    color: lightgray !important;
+    border: 1px solid yellow;
+}
+
+.btn-outline.gray:hover,
+.btn-outline.gray:active,
+.btn-outline.gray:focus {
+    background: green;
+    color: orangered !important;
+}
+
+
 
 .text-orange {
     color: orangered !important;
