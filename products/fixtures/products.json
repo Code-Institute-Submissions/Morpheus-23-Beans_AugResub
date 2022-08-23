@@ -33,7 +33,7 @@
             "sku": "0010060000031",
             "name": "Liberica Beans, Malaysia 500 grams",
             "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional arroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
-            "price": 11.99,
+            "price": 12.99,
             "category": 2,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/beans-on-tray-2131905/",
@@ -75,7 +75,7 @@
             "sku": "0010070000061",
             "name": "Robusta Beans, Vietnam 500 grams",
             "description": "If you like your brew chocolatey, nutty and earthy, these beans from Vietnam are calling your name.  These beans have a higher caffeine content than other strains and will not dissapoint, no matter which roast you opt for",
-            "price": 12.99,
+            "price": 13.99,
             "category": 3,
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/coffee-beans-861090/",
@@ -144,7 +144,7 @@
         "fields": {
             "sku": "0040020050001",
             "name": "Classic orange cappuccino cup",
-            "description": "This bright cappuccino cup and saucer by KayViss has a handcrafted design in ceramic and is perfect for those hot coffees. It has a big ear on the side for easy use. Due to the carefully handcrafted design, every product is unique and small variations may occur. Brand: KayViss, Colour: shades of orange, Finish: matte, Capacity: 350ml, Material: ceramic ",
+            "description": "This bright cappuccino cup and saucer by KayViss has a handcrafted design in ceramic and is perfect for those hot coffees. It has a big ear on the side for easy use. Due to the carefully handcrafted design, every product is unique and small variations may occur. Brand: KayViss, Colour: shades of orange, Finish: matte, Capacity: 400ml, Material: ceramic ",
             "price": 4.99,
             "category": 4,
             "rating": 4.5,
@@ -679,7 +679,7 @@
             "description": "These Geisha beans grown on small plantations in the Canary Islands are a rare and special treat not to be missed. These plantations also produce other varieties such as Robusta, Geisha, and Caturra. We have selected this variety for its smooth and satisfying unique taste and aroma. As a special treat these beans are roasted by the process known as Torrrefacto, which involves adding a small amount of sugar during roasting in order to glaze the beans.",
             "price": 9.95,
             "category": 16,
-            "rating": 4,
+            "rating": 4.3,
             "image_url": "https://www.pexels.com/search/coffee%20bean/",
             "image": "beans-special-once-B07.jpg"
         }
@@ -690,7 +690,7 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Once-off beans from Japan, 200 grams",
-            "description": "These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo delivers a premium brew and we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
+            "description": "These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo, delivers a premium brew that we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
             "price": 10.00,
             "category": 16,
             "rating": 4.2,
