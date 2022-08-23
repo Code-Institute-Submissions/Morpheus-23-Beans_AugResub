@@ -46,7 +46,7 @@
         "fields": {
             "sku": "0010060000041",
             "name": "Liberica Beans, Philippines 500 grams",
-            "description": "S",
+            "description": "The Liberica bean from the Philippines, commonly known as Barako, is a great choice of bean if your palate appreciates the very dark roasted and bitter brew. These beans are grown by only a handful of growers and availability changes seasonally.",
             "price": 12.50,
             "category": 2,
             "rating": 4.2,
@@ -60,7 +60,7 @@
         "fields": {
             "sku": "0010070000051",
             "name": "Robusta Beans, Kenya 500 grams",
-            "description": "S",
+            "description": "Kenyan Robusta beans are consistently rich in flavour with a deep, wine-like acidity and pleasant aroma.  Your brew from these beans will have a distinctly bright taste with complex tones of dark berries, fruit and bergamot.  These beans will do well with either a medium or dark roast, depending on your preference.",
             "price": 12.99,
             "category": 3,
             "rating": 4.3,
@@ -74,7 +74,7 @@
         "fields": {
             "sku": "0010070000061",
             "name": "Robusta Beans, Vietnam 500 grams",
-            "description": "S",
+            "description": "If you like your brew chocolatey, nutty and earthy, these beans from Vietnam are calling your name.  These beans have a higher caffeine content than other strains and will not dissapoint, no matter which roast you opt for",
             "price": 12.99,
             "category": 3,
             "rating": 4.1,
@@ -675,8 +675,8 @@
         "model": "products.product",
         "fields": {
             "sku": "0010050000011",
-            "name": "C Beans, Brazil 500 grams",
-            "description": "These coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
+            "name": "Once-off beans from Spain, 500 grams",
+            "description": "These Geisha beans grown on small plantations in the Canary Islands are a rare and special treat not to be missed. These plantations also produce other varieties such as Robusta, Geisha, and Caturra. We have selected this variety for its smooth and satisfying unique taste and aroma. As a special treat these beans are roasted by the process known as Torrrefacto, which involves adding a small amount of sugar during roasting in order to glaze the beans.",
             "price": 9.95,
             "category": 16,
             "rating": 4,
@@ -689,8 +689,8 @@
         "model": "products.product",
         "fields": {
             "sku": "0010050000011",
-            "name": "C Beans, Brazil 500 grams",
-            "description": "These  coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
+            "name": "Once-off beans from Japan, 200 grams",
+            "description": "These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo delivers a premium brew and we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
             "price": 10.00,
             "category": 16,
             "rating": 4.2,
