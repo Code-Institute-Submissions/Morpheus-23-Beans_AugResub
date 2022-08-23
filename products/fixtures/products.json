@@ -32,7 +32,7 @@
         "fields": {
             "sku": "0010060000031",
             "name": "Liberica Beans, Malaysia 500 grams",
-            "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional arroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
+            "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional aroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
             "price": 14.99,
             "category": 2,
             "rating": 4.1,
@@ -74,7 +74,7 @@
         "fields": {
             "sku": "0010070000061",
             "name": "Robusta Beans, Vietnam 500 grams",
-            "description": "If you like your brew chocolatey, nutty and earthy, these beans from Vietnam are calling your name.  These beans have a higher caffeine content than other varieties and will not dissapoint, no matter which roast you opt for",
+            "description": "If you like your brew chocolatey, nutty and earthy, these beans from Vietnam are calling your name.  These beans have a higher caffeine content than other varieties and will not dissapoint, no matter which roast you opt for.",
             "price": 14.99,
             "category": 3,
             "rating": 4.1,
@@ -270,7 +270,7 @@
         "fields": {
             "sku": "0020040000001",
             "name": "Glass and wood french press",
-            "description": "With this coffee plunger, you can enjoy flavourful coffee whether you're at home or at the office. Made from durable heat-resistant glass, it's finished with sustainable bamboo and is a must-have addition to any caffeine-lover's list.  Capacity: 1 litre, Material: Borosilicate glass, bamboo wood. Heat-resistant glass, Care: Hand wash only.",
+            "description": "With this coffee plunger, you can enjoy flavourful coffee whether you're at home or at the office. Made from durable heat-resistant glass, it's finished with sustainable bamboo and is a must-have addition to any caffeine-lover's list.  Capacity: 680ml, Material: Borosilicate glass, bamboo wood. Heat-resistant glass, Care: Hand wash only.",
             "price": 9.99,
             "category": 10,
             "rating": 4.1,
@@ -592,8 +592,7 @@
         "fields": {
             "sku": "0050120120001",
             "name": "Moka pot with glass set",
-            "description": "Treat yourself to this stainless steel moka pot and double-walled glass set. Have the aroma of freshly made coffee to start your day just right. This Moka pot delivers on both looks and functionality and produces a rich, authentic brew in a few minutes. The double-walled glass is perfect for that hot brew early in the morning! Pot Brand: MissD., Capacity: 170ml, Material: Stainless steel, Care: Dishwasher safe. Glass: 
-            Brand: MissD, Colour: clear, Finish: n/a, Capacity: 180ml, Material: 100% lead-free double-walled glass, Microwave safe, Dishwasher safe. ",
+            "description": "Treat yourself to this stainless steel moka pot and double-walled glass set. Have the aroma of freshly made coffee to start your day just right. This pot delivers on both looks and functionality and produces a rich, authentic brew in a few minutes. The double-walled glass is perfect for that hot brew early in the morning. Pot Brand: MissD., Capacity: 170ml, Material: Stainless steel, Care: Dishwasher safe, Glass: Brand: MissD, Colour: clear, Finish: n/a, Capacity: 180ml, Material: 100% lead-free double-walled glass, Microwave safe, Dishwasher safe.",
             "price": 19.80,
             "category": 15,
             "rating": 4.6,
@@ -691,7 +690,7 @@
         "fields": {
             "sku": "0010050000011",
             "name": "Once-off beans from Japan, 200 grams",
-            "description": "These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo, delivers a premium brew that we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
+            "description": "A very rare treat.....These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo, delivers a premium brew that we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
             "price": 10.00,
             "category": 16,
             "rating": 4.2,
