@@ -45,9 +45,8 @@
                 <form class="form" action="{% url 'add_to_bag' product.id %}" method="POST">
                     {% csrf_token %}
                     <div class="form-row">
-                        {% with product.has_roast as roast_it %}
-                        {% with product.has_grind as grind_it %}
-                        {% if roast_it %}
+                        {% with product.is_bean as is_bean %}
+                        {% if is_bean %}
                             <div class="col-12">
                                 <p class="mt-3"><strong>Roast:</strong></p>
                                 <select class="form-control rounded-0 w-50" name="product_roast" id='id_product_roast'>
@@ -56,16 +55,14 @@
                                     <option value="dark">Dark</option>
                                 </select>
                             </div>
-                        {% endif %}
-                        {% if grind_it %}
-                        <div class="col-12">
-                            <p class="mt-3"><strong>Grind:</strong></p>
-                            <select class="form-control rounded-0 w-50" name="product_grind" id='id_product_grind'>
-                                <option value="none" selected>None</option>
-                                <option value="filter" >Filter</option>
-                                <option value="espresso">Espresso</option>
-                            </select>
-                        </div>
+                            <div class="col-12">
+                                <p class="mt-3"><strong>Grind:</strong></p>
+                                <select class="form-control rounded-0 w-50" name="product_grind" id='id_product_grind'>
+                                    <option value="none" selected>None</option>
+                                    <option value="filter" >Filter</option>
+                                    <option value="espresso">Espresso</option>
+                                </select>
+                            </div>
                         {% endif %}
                         <div class="col-12">
                             <p class="mt-3"><strong>Quantity:</strong></p>
@@ -86,7 +83,6 @@
                             <input type="submit" class="btn btn-gray rounded-0 text-uppercase mt-5" value="Add to Bag">
                         </div>
                         <input type="hidden" name="redirect_url" value="{{ request.path }}">
-                        {% endwith %}
                         {% endwith %}
                     </div>
                 </form>
