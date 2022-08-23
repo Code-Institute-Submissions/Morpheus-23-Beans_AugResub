@@ -23,18 +23,19 @@ def bag_contents(request):
             })
         else:
             product = get_object_or_404(Product, pk=item_id)
-            roast = item_data['bean_options']['roast']
-            grind = item_data['bean_options']['grind']
-            quantity = item_data['bean_options']['qty']
-            total += quantity * product.price
-            product_count += quantity
-            bag_items.append({
-                'item_id': item_id,
-                'quantity': quantity,
-                'product': product,
-                'roast': roast,
-                'grind': grind,
-            })
+            for bean_item in item_data['bean_items']:
+                roast = bean_item['roast']
+                grind = bean_item['grind']
+                quantity = bean_item['qty']
+                total += quantity * product.price
+                product_count += quantity
+                bag_items.append({
+                    'item_id': item_id,
+                    'quantity': quantity,
+                    'product': product,
+                    'roast': roast,
+                    'grind': grind,
+                })
 
     if total < settings.FREE_DELIVERY_THRESHOLD:
         delivery = total * Decimal(settings.STANDARD_DELIVERY_PERCENTAGE / 100)

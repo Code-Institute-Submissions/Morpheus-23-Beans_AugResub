@@ -29,12 +29,17 @@ def add_to_bag(request, item_id):
 
     if roast or grind:
         if item_id in list(bag.keys()):
-            if bag[item_id]['bean_options']['roast'] == roast and bag[item_id]['bean_options']['grind'] == grind:
-                bag[item_id]['bean_options'][item_id] += quantity
-            else:
-                bag[item_id]['bean_options'][item_id] = quantity
+            for bean_item in bag[item_id]['bean_items']:
+                is_new_item = True
+                if bean_item['roast'] == roast and bean_item['grind'] == grind:
+                    bean_item['qty'] += quantity
+                    is_new_item = False
+                    break
+            if is_new_item:
+                new_bean_item = [{"roast": roast, "grind": grind, "qty": quantity}]
+                bag[item_id]['bean_items'].extend(new_bean_item)
         else:
-            bag[item_id] = {'bean_options': {"roast": roast, "grind": grind, "qty": quantity}}
+            bag[item_id] = {'bean_items': [{"roast": roast, "grind": grind, "qty": quantity}]}
 
     else:
         if item_id in list(bag.keys()):

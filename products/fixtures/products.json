@@ -7,6 +7,7 @@
             "description": "These Arabica coffee beans from Brazil have a slightly sweet and softer taste with tones of brown sugar, fruit and berries. Their acidity is slightly higher and characterizes coffee with excellent acidity. These beans are some of the very best available in the Europen market. We suggest a medium roast, however these beans will also handle a dark roast very well.",
             "price": 15.50,
             "category": 1,
+            "is_bean": "True",
             "rating": 4.8,
             "image_url": "https://www.pexels.com/photo/coffee-beans-on-round-wok-2711959/",
             "image": "beans-arabica-brazil-B01.jpg"
@@ -21,6 +22,7 @@
             "description": "These Colombian Arabica coffee beans boast tasting notes of chocolate, nuts, herbs and fruit. They have a citrus acidity and will produce a mild and well balanced coffee with a medium silky-body. We suggest a medium roast, however these beans will also handle a dark roast very well.",
             "price": 16.25,
             "category": 1,
+            "is_bean": "True",
             "rating": 4.9,
             "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-cup-of-black-coffee-7091089/",
             "image": "beans-arabica-colombia-B02.jpg"
@@ -35,6 +37,7 @@
             "description": "A lesser known bean, but by no means an inferior coffee bean. These Liberica beans imported from Malaysia can be characterized by having smoky, nutty, dark chocolate and ripe berry tasting notes.  These beans release an exceptional aroma when roasted and brewed and produce a coffee favoured for its smooth lingering aftertaste of rich dark chocolate. We suggest a darker roast, however these beans will also release their amazing flavour through a medium roast.",
             "price": 14.99,
             "category": 2,
+            "is_bean": "True",
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/beans-on-tray-2131905/",
             "image": "beans-liberica-malaysia-B03.jpg"
@@ -49,6 +52,7 @@
             "description": "The Liberica beans from the Philippines, commonly known as Barako, is a great choice of bean if your palate appreciates the very dark roasted and bitter brew. These beans are grown by only a handful of growers and availability changes seasonally. Choose a roast to your liking, the beans are bold and will not disappoint. ",
             "price": 13.75,
             "category": 2,
+            "is_bean": "True",
             "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/coffee-beans-beside-tea-spoon-2283596/",
             "image": "beans-liberica-philippines-B06.jpg"
@@ -63,6 +67,7 @@
             "description": "Kenyan Robusta beans are consistently rich in flavour with a deep, wine-like acidity and pleasant aroma.  Your brew from these beans will have a distinctly bright taste with complex tones of dark berries, fruit and bergamot.  These beans will do well with either a medium or dark roast, depending on your preference.",
             "price": 15.99,
             "category": 3,
+            "is_bean": "True",
             "rating": 4.3,
             "image_url": "https://www.pexels.com/photo/coffee-beans-1695052/",
             "image": "beans-robusta-kenya-B05.jpg"
@@ -77,6 +82,7 @@
             "description": "If you like your brew chocolatey, nutty and earthy, these beans from Vietnam are calling your name.  These beans have a higher caffeine content than other varieties and will not dissapoint, no matter which roast you opt for.",
             "price": 14.99,
             "category": 3,
+            "is_bean": "True",
             "rating": 4.1,
             "image_url": "https://www.pexels.com/photo/coffee-beans-861090/",
             "image": "beans-robusta-vietnam-B04.jpg"
@@ -679,6 +685,7 @@
             "description": "These Geisha beans grown on small plantations in the Canary Islands are a rare and special treat not to be missed. These plantations also produce other varieties such as Robusta, Geisha, and Caturra. We have selected this variety for its smooth and satisfying unique taste and aroma. As a special treat these beans are roasted by the process known as Torrrefacto, which involves adding a small amount of sugar during roasting in order to glaze the beans.",
             "price": 9.95,
             "category": 16,
+            "is_bean": "True",
             "rating": 4.3,
             "image_url": "https://www.pexels.com/search/coffee%20bean/",
             "image": "beans-special-once-B07.jpg"
@@ -693,6 +700,7 @@
             "description": "A very rare treat.....These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo, delivers a premium brew that we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
             "price": 10.00,
             "category": 16,
+            "is_bean": "True",
             "rating": 4.2,
             "image_url": "https://www.pexels.com/photo/coffee-beans-in-ceramic-cup-on-white-cloth-7752766/",
             "image": "beans-special-once-B08.jpg"
