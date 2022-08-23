@@ -346,7 +346,7 @@
         "fields": {
             "sku": "0030020011041",
             "name": "Black coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: JeanCara, Series: Style, Class, Luxury, Material: porcelain, Colour: black, Finish: matte, Capacity: 420 ml, Microwave and dishwasher safe.",
             "price": 3.50,
             "category": 14,
             "rating": 4.4,
@@ -360,7 +360,7 @@
         "fields": {
             "sku": "0030020011042",
             "name": "Black barrel shaped coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: KayViss, Series: You can WIN if you want, Material: porcelain, Colour: Black and gold, Finish: semi-gloss, Capacity: 450ml, Not microwave safe, Handwash only.",
             "price": 4.50,
             "category": 18,
             "rating": 4.1,
@@ -374,7 +374,7 @@
         "fields": {
             "sku": "0030020081051",
             "name": "Brown coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: Nay-dene, Series: Latte, Material: ceramic, Colour: brown, Finish: matte, Capacity: 380ml, Microwave safe. Dishwasher safe.",
             "price": 4.80,
             "category": 9,
             "rating": 4.4,
@@ -388,7 +388,7 @@
         "fields": {
             "sku": "0030020091051",
             "name": "Grey coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: WoutK, Series: Everything is possible, Material: porcelain, Colour: light-grey, Finish: matte, Capacity: 380ml, Microwave safe. Dishwasher safe.",
             "price": 4.50,
             "category": 14,
             "rating": 4.2,
@@ -401,8 +401,8 @@
         "model": "products.product",
         "fields": {
             "sku": "0030020101051",
-            "name": "Off white coffee mug with message",
-            "description": "S",
+            "name": "Camping coffee mug with message",
+            "description": "Coffee mug, Brand: JeanCara, Series: Camping, Material: enamel, Colour: off-white and green, Finish: semi-gloss, Capacity: 400 ml. Dishwasher safe.",
             "price": 3.79,
             "category": 14,
             "rating": 3.9,
@@ -416,7 +416,7 @@
         "fields": {
             "sku": "0030020071051",
             "name": "White coffee mug with message",
-            "description": "S",
+            "description": "Coffee mug, Brand: FunByMichael, Series: Unicorns, Material: porcelain, Colour: white and gold, Finish: high-gloss, Capacity: 350ml, Microwave safe. Dishwasher safe.",
             "price": 3.50,
             "category": 14,
             "rating": 4.4,
@@ -430,7 +430,7 @@
         "fields": {
             "sku": "0030020010001",
             "name": "Black coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: Micke V., Series: Black&White, Material: porcelain, Colour: Black and white, Finish: matte, Capacity: 350ml, Microwave safe. Dishwasher safe.",
             "price": 4.20,
             "category": 9,
             "rating": 4.7,
@@ -444,7 +444,7 @@
         "fields": {
             "sku": "0030020050001",
             "name": "Orange coffee mug",
-            "description": "S",
+            "description": "Coffee mug, Brand: JeanCara, Series: Sunshine, Material: glass, Colour: orange, Finish: gloss, Capacity: 380ml, Microwave safe. Dishwasher safe.",
             "price": 4.30,
             "category": 9,
             "rating": 4.6,
@@ -458,7 +458,7 @@
         "fields": {
             "sku": "0030020070001",
             "name": "White coffee mug set of two",
-            "description": "S",
+            "description": "Coffee mug set of two, Brand: Sophie, Series: Simplistic, Material: porcelain, Colour: white, Finish: gloss, Capacity: 350ml, Microwave safe. Dishwasher safe.",
             "price": 7.99,
             "category": 9,
             "rating": 4.1,
@@ -472,7 +472,7 @@
         "fields": {
             "sku": "0030080011051",
             "name": "Disposable black coffee cup",
-            "description": "S",
+            "description": "Disposable coffee cup(re-usable up to 4 times), Brand: Skye, Series: Fun, Material: durable recycled paper, Colour: Black with black lid, Capacity: 420 ml. Rinse with luke warm water.",
             "price": 0.99,
             "category": 8,
             "rating": 4.1,
@@ -486,7 +486,7 @@
         "fields": {
             "sku": "0030020011051",
             "name": "Refillable on-the-go black coffee cup",
-            "description": "S",
+            "description": "Refillable coffee cup, Brand: Skye, Series: On-the-run, Material: porcelain, Colour: Black with black lid, Finish: matte, Capacity: 450 ml. Microwave safe. Dishwasher safe.",
             "price": 5.50,
             "category": 7,
             "rating": 4.6,
@@ -500,7 +500,7 @@
         "fields": {
             "sku": "0030080131051",
             "name": "Disposable pink coffee cup",
-            "description": "S",
+            "description": "Disposable coffee cup(re-usable up to 4 times), Brand: Skye, Series: Hug, Material: durable recycled paper, Colour: Pink with black lid, Capacity: 420 ml. Rinse with luke warm water.",
             "price": 1.05,
             "category": 8,
             "rating": 4.4,
@@ -514,7 +514,7 @@
         "fields": {
             "sku": "0030020131051",
             "name": "Refillable on-the-go pink coffee cup",
-            "description": "S",
+            "description": "Refillable coffee cup, Brand: Skye, Series: Coffee-please, Material: porcelain, Colour: pink with pink lid, Finish: matte, Capacity: 450 ml. Microwave safe. Dishwasher safe.",
             "price": 6.00,
             "category": 7,
             "rating": 4.8,
