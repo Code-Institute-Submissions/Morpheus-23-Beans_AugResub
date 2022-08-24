@@ -33,19 +33,19 @@ Wireframes
 
 ![Beans](./media/readme_wireframes/wf-main-page3-bns.png)
 
-![Coffee Makers](./readme_wireframes/wf-main-page4-cm.png)
+![Coffee Makers](./media/readme_wireframes/wf-main-page4-cm.png)
 
-![Coffee Mugs and Cups](./readme_wireframes/wf-main-page5-cmc.png)
+![Coffee Mugs and Cups](./media/readme_wireframes/wf-main-page5-cmc.png)
 
-![Special Offers](./readme_wireframes/wf-main-page6-so.png)
+![Special Offers](./media/readme_wireframes/wf-main-page6-so.png)
 
-![Order](./readme_wireframes/wf-main-page7-order.png)
+![Order](./media/readme_wireframes/wf-main-page7-order.png)
 
-![Search](./readme_wireframes/wf-main-page8-search.png)
+![Search](./media/readme_wireframes/wf-main-page8-search.png)
 
-![My Account](./readme_wireframes/wf-main-page9-myacc.png)
+![My Account](./media/readme_wireframes/wf-main-page9-myacc.png)
 
-![Shopping Bag](./readme_wireframes/wf-main-page10-sbag.png)
+![Shopping Bag](./media/readme_wireframes/wf-main-page10-sbag.png)
 
 
-![SKU codes explained](.readme-other/beans-sku-codes-explained.png)
+![SKU codes explained](.media/readme-other/beans-sku-codes-explained.png)

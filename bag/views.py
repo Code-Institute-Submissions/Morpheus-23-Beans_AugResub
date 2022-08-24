@@ -65,6 +65,7 @@ def add_to_bag(request, item_id):
     request.session['bag'] = bag
     return redirect(redirect_url)
 
+
 def adjust_bag(request, item_id):
     """Adjust the quantity of the specified product to the specified amount"""
 
@@ -113,6 +114,7 @@ def adjust_bag(request, item_id):
     request.session['bag'] = bag
     return redirect(reverse('view_bag'))
 
+
 def remove_from_bag(request, item_id):
     """Remove the item from the shopping bag"""
 
@@ -129,7 +131,7 @@ def remove_from_bag(request, item_id):
 
         if roast or grind:
             counter = 0
-            #loop through the items and find the matching bean_item
+            # loop through the items and find the matching bean_item
             for bean_item in bag[item_id]['bean_items']:
                 if bean_item['roast'] == roast and bean_item['grind'] == grind:
                     # remove the bean item from the bag
