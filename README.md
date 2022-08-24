@@ -1,6 +1,6 @@
 # 2Bean-or-not-2Bean
 
-![Welcome](./readme-screenshots/ss-main.png)
+![Welcome](./media/readme-screenshots/ss-main.png)
 
 [2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) is a full stack e-commerce site aimed at the coffee enthusiast. It is an online only store which offers a variety of carefully selected beans, coffee makers, cups and mugs. What makes this coffee bean seller unique is that the purchaser can choose how dark they want their beans roasted, with the available options being, light, medium and dark. The purchaser can also choose to have their beans grinded with two options available, espresso and filter. As a another treat there are once-off beans which are lessor known or rarer coffee beans, sourced from countries not as well known for their coffee bean growers.  These once-off varieties will continuously change.
 
