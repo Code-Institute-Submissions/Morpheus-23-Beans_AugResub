@@ -1,6 +1,6 @@
 # 2Bean-or-not-2Bean
 
-![2Bean-or-not-2Bean](./readme-screenshots/ss-main.png)
+![2Bean-or-not-2Bean](./media/readme-screenshots/ss-main.png)
 
 
 
@@ -27,11 +27,11 @@
 
 
 Wireframes
-![Welcome](./readme_wireframes/wf-main-page1.png)
+![Welcome](./media/readme_wireframes/wf-main-page1.png)
 
-![All Products](./readme_wireframes/wf-main-page2-ap.png)
+![All Products](./media/readme_wireframes/wf-main-page2-ap.png)
 
-![Beans](./readme_wireframes/wf-main-page3-bns.png)
+![Beans](./media/readme_wireframes/wf-main-page3-bns.png)
 
 ![Coffee Makers](./readme_wireframes/wf-main-page4-cm.png)
 
