@@ -29,13 +29,14 @@ def add_to_bag(request, item_id):
 
     if roast or grind:
         if item_id in list(bag.keys()):
+            is_new_item = True
             for bean_item in bag[item_id]['bean_items']:
-                is_new_item = True
                 if bean_item['roast'] == roast and bean_item['grind'] == grind:
                     bean_item['qty'] += quantity
                     is_new_item = False
                     break
             if is_new_item:
+                # from https://stackoverflow.com/questions/39375250/in-python-append-dictionary-value-with-each-element-in-array
                 new_bean_item = [{"roast": roast, "grind": grind, "qty": quantity}]
                 bag[item_id]['bean_items'].extend(new_bean_item)
         else:
