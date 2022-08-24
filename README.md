@@ -49,3 +49,6 @@ Wireframes
 
 
 ![SKU Codes](.media/readme-other/sku-codes.png)
+
+
+![SKU codes](./media/readme-screenshots/sku-codes.png)
