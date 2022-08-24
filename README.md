@@ -48,4 +48,4 @@ Wireframes
 ![Shopping Bag](./media/readme_wireframes/wf-main-page10-sbag.png)
 
 
-![SKU codes explained](.media/readme-other/beans-sku-codes-explained.png)
+![SKU Codes](.media/readme-other/sku-codes.png)
