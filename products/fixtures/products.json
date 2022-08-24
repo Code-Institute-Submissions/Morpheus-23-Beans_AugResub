@@ -106,7 +106,7 @@
         "pk": 8,
         "model": "products.product",
         "fields": {
-            "sku": "0040020020001",
+            "sku": "0040130020001",
             "name": "Cheeky light blue cappuccino cup",
             "description": "This cheeky cappuccino cup and saucer by Nay-dene is ideal for everyday use, whether it is for your morning cup or your after dinner coffee. Brand: Nay-dene, Colour: light blue, Finish: gloss, Capacity: 240ml, Material: ceramic, Microwave safe, Dishwasher safe.",
             "price": 3.99,
@@ -148,7 +148,7 @@
         "pk": 11,
         "model": "products.product",
         "fields": {
-            "sku": "0040020050001",
+            "sku": "0040130050001",
             "name": "Bright orange cappuccino cup",
             "description": "This bright cappuccino cup and saucer by KayViss has a handcrafted design in ceramic and is perfect for those hot coffees. It has a big ear on the side for easy use. Due to the carefully handcrafted design, every product is unique and small variations may occur. Brand: KayViss, Colour: shades of orange, Finish: matte, Capacity: 400ml, Material: ceramic ",
             "price": 4.99,
@@ -190,7 +190,7 @@
         "pk": 14,
         "model": "products.product",
         "fields": {
-            "sku": "0040020060001",
+            "sku": "0040130060001",
             "name": "Oversized yellow cup",
             "description": "This oversized cup by Nay-dene is ideal for everyday use, whether it is for your morning cup or your afternoon coffee. Brand: Nay-dene, Colour: bright yellow, Finish: semi gloss, Capacity: 450ml, Material: ceramic, Microwave safe, Dishwasher safe.",
             "price": 4.99,
@@ -204,7 +204,7 @@
         "pk": 15,
         "model": "products.product",
         "fields": {
-            "sku": "004002006000100",
+            "sku": "0030010000002",
             "name": "Tall glass mug",
             "description": "This tall glass mug by MissD is made for everyday use and can withstand a bump or two. They are ideal for the whole family. Brand: MissD, Colour: clear glass, Finish: n/a, Capacity: 400ml, Material: glass, Microwave safe, Dishwasher safe.",
             "price": 2.85,
@@ -260,7 +260,7 @@
         "pk": 19,
         "model": "products.product",
         "fields": {
-            "sku": "0030020083001",
+            "sku": "0030130083001",
             "name": "Wood textured brown coffee mug",
             "description": "This wood textured mug by Nay-dene has a handcrafted design in ceramic. Due to the handcrafted design, every product is unique and small variations may occur  Even though it has no ear it is still perfect for those hot drinks such as coffee, tea or hot cacao.  Brand: Nay-dene, Colour: brown, Finish: wood textured, Capacity: 410ml, Material: ceramic, Microwave safe, Handwash only.",
             "price": 3.99,
@@ -330,7 +330,7 @@
         "pk": 24,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000000",
+            "sku": "0020150164001",
             "name": "Collector's edition siphon coffee maker",
             "description": "The IVS Collector's edition siphon coffee maker isn't just about brewing the world's finest coffee, it is more than a statement of extraordinary taste. It is a commitment to be extraordinary.  Enchant your guests with this unexpected and fascinating siphon. Coffee brewed with this unique brewing method involving fire, steam, pressure, and gravity, strikes the perfect balance of rich flavor and fragrant aroma. This siphon is in a league of its own. ",
             "price": 425.50,
@@ -372,7 +372,7 @@
         "pk": 27,
         "model": "products.product",
         "fields": {
-            "sku": "0030020081051",
+            "sku": "0030130081051",
             "name": "Brown coffee mug",
             "description": "Coffee mug, Brand: Nay-dene, Series: Latte, Material: ceramic, Colour: brown, Finish: matte, Capacity: 380ml, Microwave safe. Dishwasher safe.",
             "price": 3.80,
@@ -400,7 +400,7 @@
         "pk": 29,
         "model": "products.product",
         "fields": {
-            "sku": "0030020101051",
+            "sku": "0030140101051",
             "name": "Camping coffee mug with message",
             "description": "Coffee mug, Brand: JeanCara, Series: Camping, Material: enamel, Colour: off-white and green, Finish: semi-gloss, Capacity: 400 ml. Dishwasher safe.",
             "price": 3.79,
@@ -442,7 +442,7 @@
         "pk": 32,
         "model": "products.product",
         "fields": {
-            "sku": "0030020050001",
+            "sku": "0030010050001",
             "name": "Orange coffee mug",
             "description": "Coffee mug, Brand: JeanCara, Series: Sunshine, Material: glass, Colour: orange, Finish: gloss, Capacity: 380ml, Microwave safe. Dishwasher safe.",
             "price": 4.99,
@@ -582,7 +582,7 @@
         "pk": 42,
         "model": "products.product",
         "fields": {
-            "sku": "0050100150001",
+            "sku": "0050160150001",
             "name": "Moka pot with white cup set",
             "description": "Yearning for your own moka pot and cup set? On a budget? Grab this little treasure! A moka pot and white cup and saucer set. This Moka pot produces a rich, authentic brew in minutes, ready to be served from this simplistic white cup set. Pot Capacity: 190ml, Material: Aliminium, Care: Handwash only.  Cup: Colour: white, Finish: gloss, Capacity: 220ml, Material: ceramic, Microwave safe, Dishwasher safe.",
             "price": 11.00,
@@ -638,7 +638,7 @@
         "pk": 46,
         "model": "products.product",
         "fields": {
-            "sku": "0050100000001",
+            "sku": "0050170000001",
             "name": "Camping french press with mug set",
             "description": "Going camping is an adventure that should be enjoyed to the maximum, so be sure to include this stainless steel french press and two enamelware muggs.  Both press and muggs are easy to clean and they travel well.  Press capacity: 800ml, Material: Stainless steel, Care: Dishwasher safe.  Muggs: Colour: dark green, Finish: semi-gloss, Capacity: 280ml, Material: enamel, Dishwasher safe.",
             "price": 29.60,
@@ -652,7 +652,7 @@
         "pk": 47,
         "model": "products.product",
         "fields": {
-            "sku": "0050090100001",
+            "sku": "0050180030001",
             "name": "French press with cup set",
             "description": "Turn your coffee break into a moment of pure bliss with this beautiful simplistic coffee plunger and cream coffee cup set. The plunger is made from durable heat-resistant glass and finished with sustainable bamboo. The cream coloured cups are made from ceramic and beautifully handpainted. Press: Brand: MissD. Capacity: 500ml, Material: Borosilicate glass, bamboo wood. Heat-resistant glass, Care: Hand wash only. Cups:  Brand: MissD., Colour: cream, Finish: low-gloss, Capacity: 230ml, Material: ceramic, Microwave safe, Dishwasher safe.",
             "price": 30.00,
@@ -666,7 +666,7 @@
         "pk": 48,
         "model": "products.product",
         "fields": {
-            "sku": "0020010000001",
+            "sku": "0020010004002",
             "name": "Premium siphon coffee maker",
             "description": "The IVS Premium siphon coffee system is a standalone siphon that uses an alcohol burner and re-usable cloth filters. It has a handy 4 cup brew capacity and is made of heat resistant borosilicate glass.  The IVS siphon system is produced in Norway and is known for its high quality coffee makers.  The premium siphon is certainly the one to have. It is simple and elegant in design and made of heat-resistant borosilicate glass so it is unlikely to break easily.",
             "price": 189.50,
@@ -680,7 +680,7 @@
         "pk": 49,
         "model": "products.product",
         "fields": {
-            "sku": "0010050000011",
+            "sku": "0010190005511",
             "name": "Once-off beans from Spain, 500 grams",
             "description": "These Geisha beans grown on small plantations in the Canary Islands are a rare and special treat not to be missed. These plantations also produce other varieties such as Robusta, Geisha, and Caturra. We have selected this variety for its smooth and satisfying unique taste and aroma. As a special treat these beans are roasted by the process known as Torrrefacto, which involves adding a small amount of sugar during roasting in order to glaze the beans.",
             "price": 17.95,
@@ -695,7 +695,7 @@
         "pk": 50,
         "model": "products.product",
         "fields": {
-            "sku": "0010050000011",
+            "sku": "0010190005512",
             "name": "Once-off beans from Japan, 200 grams",
             "description": "A very rare treat.....These 100% Ogasawara beans grown on the Ogasawara Islands, 1000 km south of Tokyo, delivers a premium brew that we strongly suggest you opt for a medium roast, which will give you a comforting aroma and refreshhing finish.",
             "price": 12.50,
