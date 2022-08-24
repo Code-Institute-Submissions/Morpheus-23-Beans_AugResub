@@ -48,7 +48,4 @@ Wireframes
 ![Shopping Bag](./media/readme_wireframes/wf-main-page10-sbag.png)
 
 
-![SKU Codes](.media/readme-other/sku-codes.png)
-
-
 ![SKU codes](./media/readme-screenshots/sku-codes.png)
