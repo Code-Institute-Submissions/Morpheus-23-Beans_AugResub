@@ -1,33 +1,31 @@
 # 2Bean-or-not-2Bean
 
-![2Bean-or-not-2Bean](./media/readme-screenshots/ss-main.png)
+![Welcome](./readme-screenshots/ss-main.png)
+
+[2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) is a full stack e-commerce site aimed at the coffee enthusiast. It is an online only store which offers a variety of carefully selected beans, coffee makers, cups and mugs. What makes this coffee bean seller unique is that the purchaser can choose how dark they want their beans roasted, with the available options being, light, medium and dark. The purchaser can also choose to have their beans grinded with two options available, espresso and filter. As a another treat there are once-off beans which are lessor known or rarer coffee beans, sourced from countries not as well known for their coffee bean growers.  These once-off varieties will continuously change.
+
+## User Experience (UX)
+
+### User stories
 
 
 
-[2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) is a website aimed at the coffee enthusiast and sells a variety of high quality coffee beans, coffee makers and cups and mugs. For registered users "beanies", there are more options available, such a choosing how dark they would like the bean roast to be and they have access to coffee brewing tips and suggestions, to ensure they get the very best brew from their beans.
+The data schema below was prepared by using [Lucid.app](https://lucid.app/)
 
-* Project is incomplete: 
-    - products setup is incomplete (images needs to be cropped, product descriptions missing, currency to be amended, footer and page layout to be finalised)
-    - many features not implemented as yet such as login and registration pages, functionalities not yet implemented include stripe payments etc
+ ![Database schema](./readme/schema-db.png)
 
-* Readme is incomplete and requires the following:
-    - Complete explanation of the site's purpose and the value to its users
-    - User Experience section consisting of User stories, strategy, scope, structure, skeleton and surface planes including wireframes.
-    - Features section reflecting existing features, common page features and page specific features.
-    - Testing section featuring
-        - manual testing of user stories,
-        - screenshots of all pages viewed in a responsive viewer reflecting site is fully responsive on all device sizes,
-        - bugs encountered, resolved and unresolved to be reflected,
-        - automated testing and code validation 
-    - Deployment section provinding an explanation on environmental setup done, deployment in Heroku
-    - Technologies used section indicating languages, libraries, frameworks and tools used and a brief summary of their function.
-    - Content / credit section acknowledging/indicating when/where any code and/or ideas and/or features where used that is not my own and indicating where said code, ideas, features,images were sourced were sourced from. Also indicating where icons, fonts etc were obtained from.
+The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
+
+![Sitemap](./readme/sitemap.png)
 
 
+### Skeleton
 
+- Considering the strategy, scope and structure the following wireframes were created:
 
-Wireframes
-![Welcome](./media/readme_wireframes/wf-main-page1.png)
+-   The main page of the site (desktop view)
+
+![Main](./media/readme_wireframes/wf-main-page1.png)
 
 ![All Products](./media/readme_wireframes/wf-main-page2-ap.png)
 
@@ -47,5 +45,21 @@ Wireframes
 
 ![Shopping Bag](./media/readme_wireframes/wf-main-page10-sbag.png)
 
+-   The main page of the site (mobile view)
+
+![MainMobile](./media/readme_wireframes/wf-main-mobile-page1.png)
+
+-   The following page of the site once clicked on one of the following options from the navigation bar : all products, beans, coffee makers, coffee mugs and cups or special offers. (desktop view)
+
+![Next](./media/readme_wireframes/wf-next-page1-ap.png)
+
+-   After clicking on one of the product images, the page opens the specific product selected, with beans having more options available (being the roast and grind options). (desktop view)
+
+![Beans](./media/readme_wireframes/wf-next-page2-beans-clicked.png)
+
+
+
 
 ![SKU codes](./media/readme-screenshots/sku-codes.png)
+
+
