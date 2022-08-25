@@ -82,20 +82,20 @@ The website consists of :
 - Home page - reflecting a search bar, navigation bar(all products, beans, coffee makers, coffee mugs and cups, special offers), order now link, my account and shopping bag
 - Logo - made clickable to return to the home page
 - Once an option has been selected from the drop down menu in the navigation bar, the relevant page will open reflecting all the products within the elected section:
--   All products (By Price, By Rating, By Category, All products)
--   Beans (Arabica Beans, Liberica Beans, Robusta Beans, Once Off available beans, All beans)
--   Coffee Makers (french press, drip coffee, moka pot, siphon pot, coffee maker and cup sets, all coffee makers)
--   Coffee mugs and cups (cappuccino cups, espresso cups, cups, mugs, messages mugs, cups on the move, disposable cups, all coffee mugs and cups)
--   Special offers (end of range, clearance, all specials)
+-       All products (By Price, By Rating, By Category, All products)
+-       Beans (Arabica Beans, Liberica Beans, Robusta Beans, Once Off available beans, All beans)
+-       Coffee Makers (french press, drip coffee, moka pot, siphon pot, coffee maker and cup sets, all coffee makers)
+-       Coffee mugs and cups (cappuccino cups, espresso cups, cups, mugs, messages mugs, cups on the move, disposable cups, all coffee mugs and cups)
+-       Special offers (end of range, clearance, all specials)
 - After a choice has been selected from the drop down menu in the navigation bar, the relevant products will be reflected (their images, price, category and rating)
 - Once a product has been selected by clicking on the image, the page will open with a larger image, price, category, rating, description, option to choose the quantity, add to the shopping bag or keep shopping (the beans have additional options available, being roast(light, medium, dark) and grind(none, espresso or filter))
 - My Account (Register and Log In options)
 - Shopping bag, which has the following options:
--   Increase / decrease products
--   Remove products from bag
--   Update bag
--   Keep shopping
--   Secure checkout
+-       Increase / decrease products
+-       Remove products from bag
+-       Update bag
+-       Keep shopping
+-       Secure checkout
 
 
 The data schema below was prepared by using [Lucid.app](https://lucid.app/)
