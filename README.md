@@ -51,13 +51,51 @@ Organic is the better choice. These organic certified beans have not been treate
 ### Strategy
 
 The main aim and focus of 2Bean-or-not-2Bean is to provide an online store where users can purchase quality fairtrade organic beans and related coffee products from the comfort of their homes / offices / devices, which transactions can take place securely.
-    - by selling organic beans, which have not been subjected to poisons and toxins and is a healthier option than non-organic beans;
-    - by providing fairtrade beans, which means that the bean growers get fair prices for their products, which in turn makes their bean growing farms and communities more sustainable;
-    - by taking part in the fairtrade model, by which the beans purchased can be traced back to the specific growers;
-    - by providing the option to users to rate products, ensuring the highest quality products are being sold and getting the feedback from users ensuring the quality stays impeccable;
-    - new / prospective purchasers will feel more comfortable when considering a purchase when they can see the product ratings from other users;
-    - if a product is not rated well by users, it can be sold under the specials at a reduced price.
+-   by selling organic beans, which have not been subjected to poisons and toxins and is a healthier option than non-organic beans;
+-   by providing fairtrade beans, which means that the bean growers get fair prices for their products, which in turn makes their bean growing farms and communities more sustainable;
+-   by taking part in the fairtrade model, by which the beans purchased can be traced back to the specific growers;
+-   by providing the option to users to rate products, ensuring the highest quality products are being sold and getting the feedback from users ensuring the quality stays impeccable;
+-   new / prospective purchasers will feel more comfortable when considering a purchase when they can see the product ratings from other users;
+-   if a product is not rated well by users, it can be sold under the specials at a reduced price.
 
+
+### Scope
+
+A minimum viable product was created which covers the immediate and current goal of the site owner and should satisfy the prospective users:
+- a website that clearly sells organic fairtrade beans and related quality coffee products, such as brand name coffee makers, cups and mugs;
+- the search function which makes it easy for users to search and find products;
+- the navigation bar that makes it easy for users to locate products in the indicated categories;
+- user registration;
+- user login and authentication;
+- shopping bag which is able to add, remove, increase, decrease and update products;
+- a secure payment system (stripe);
+
+Possible future feature/s:
+- provided that the relevant bean growers give their relevant consent, a section may be created to feature introductory stories about the bean growers, which may also help the bean growers with their own marketing and create awareness of the challenges organic and fairtrade growers face in the very competitive coffee bean market.
+
+
+### Structure
+
+The purpose of the website is to sell fairtrade organic beans and good quality related products. 
+The website has been made very easy to navigate with the navigation bar present on all pages.
+The website consists of :
+- Home page - reflecting a search bar, navigation bar(all products, beans, coffee makers, coffee mugs and cups, special offers), order now link, my account and shopping bag
+- Logo - made clickable to return to the home page
+- Once an option has been selected from the drop down menu in the navigation bar, the relevant page will open reflecting all the products within the elected section:
+-   All products (By Price, By Rating, By Category, All products)
+-   Beans (Arabica Beans, Liberica Beans, Robusta Beans, Once Off available beans, All beans)
+-   Coffee Makers (french press, drip coffee, moka pot, siphon pot, coffee maker and cup sets, all coffee makers)
+-   Coffee mugs and cups (cappuccino cups, espresso cups, cups, mugs, messages mugs, cups on the move, disposable cups, all coffee mugs and cups)
+-   Special offers (end of range, clearance, all specials)
+- After a choice has been selected from the drop down menu in the navigation bar, the relevant products will be reflected (their images, price, category and rating)
+- Once a product has been selected by clicking on the image, the page will open with a larger image, price, category, rating, description, option to choose the quantity, add to the shopping bag or keep shopping (the beans have additional options available, being roast(light, medium, dark) and grind(none, espresso or filter))
+- My Account (Register and Log In options)
+- Shopping bag, which has the following options:
+-   Increase / decrease products
+-   Remove products from bag
+-   Update bag
+-   Keep shopping
+-   Secure checkout
 
 
 The data schema below was prepared by using [Lucid.app](https://lucid.app/)
