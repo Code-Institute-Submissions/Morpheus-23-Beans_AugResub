@@ -1,6 +1,6 @@
 # 2Bean-or-not-2Bean
 
-![Welcome](./readme-screenshots/ss-main.png)
+![Welcome](./media/readme-screenshots/ss-main.png)
 
 [2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) is a full stack e-commerce site aimed at the coffee enthusiast, concerned with their own health, fairtrade and the environment. This is an online only store which offers a variety of carefully selected beans(both organic and fairtrade) and quality coffee makers, cups and mugs. 
 Organic is the better choice. These organic certified beans have not been treated with chemicals or toxins and as a result the coffee brew may be higher in antioxidants, vitamins, and minerals. All the beans are also fair trade certified, which means farmers who grow these beans receive a fair price, and their communities and the environment will also benefit as a result. What makes this coffee bean seller unique is that the purchaser can choose how dark they want their beans roasted, with the available options being, light, medium and dark. The purchaser can also choose to have their beans grinded with two options available, espresso and filter. As a another treat there are once-off beans which are less known or rare coffee beans, sourced from countries not well known for their coffee bean growers.  These once-off varieties will continuously change.
