@@ -70,13 +70,13 @@ body {
 .btn-outline.gray {
     background: orangered;
     color: lightgray !important;
-    border: 1px solid yellow;
+    border: 1px solid darkgray;
 }
 
 .btn-outline.gray:hover,
 .btn-outline.gray:active,
 .btn-outline.gray:focus {
-    background: green;
+    background: gray;
     color: orangered !important;
 }
 
@@ -129,6 +129,12 @@ body {
 #delivery-banner {
     background-color: gray;
     opacity: 0.5;
+    font-weight: bolder;
+}
+
+#diduknow-banner {
+    background-color: lightgray !important;
+    opacity: 0.5 !important;
     font-weight: bolder;
 }
 
@@ -195,7 +201,7 @@ a.category-badge > span.badge:hover {
 
 /* Convenience classes - colors copied from Bootstrap */
 .arrow-primary {
-    border-bottom-color: #007bff !important;
+    border-bottom-color: darkred !important;
 }
 
 .arrow-secondary {
