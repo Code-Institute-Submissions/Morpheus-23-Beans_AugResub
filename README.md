@@ -37,7 +37,8 @@ Organic is the better choice. These organic certified beans have not been treate
     - to find it easy to check out and pay for my shopping bag contents, which process should be secure and have no risk of leaking personal information and / or banking details.
     - to find it easy to register a new account.
     - to find it easy to log into an existing account.
-    - to find it easy to log out of an existing account.
+    - to find it to update my profile account.
+    - to find it easy to log out of my account.
 
 - As the Site Owner / seller I want to:
     - provide a site that is clear in its intention, selling organic fairtrade beans and other coffee related products.
@@ -67,6 +68,9 @@ A minimum viable product was created which covers the immediate and current goal
 - the navigation bar that makes it easy for users to locate products in the indicated categories;
 - user registration;
 - user login and authentication;
+- user profile reflecting history of products bought;
+- user profile update;
+- user log out;
 - shopping bag which is able to add, remove, increase, decrease and update products;
 - a secure payment system (stripe);
 
@@ -89,7 +93,7 @@ The website consists of :
 -       Special offers (end of range, clearance, all specials)
 - After a choice has been selected from the drop down menu in the navigation bar, the relevant products will be reflected (their images, price, category and rating)
 - Once a product has been selected by clicking on the image, the page will open with a larger image, price, category, rating, description, option to choose the quantity, add to the shopping bag or keep shopping (the beans have additional options available, being roast(light, medium, dark) and grind(none, espresso or filter))
-- My Account (Register and Log In options)
+- My Account (Register, Sign In, Update details, Sign Up, Sign Out, options)
 - Shopping bag, which has the following options:
 -       Increase / decrease products
 -       Remove products from bag
@@ -105,6 +109,11 @@ The data schema below was prepared by using [Lucid.app](https://lucid.app/)
 The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
 ![Sitemap](./readme/sitemap.png)
+
+
+
+![SKU codes](./media/readme-screenshots/sku-codes.png)
+
 
 
 ### Skeleton
@@ -157,7 +166,7 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
 ![Order confirmation](./media/readme_wireframes/wf-orderconfirmation.png)
 
--   Signin up view.
+-   Sign up view.
 
 ![Sign Up](./media/readme_wireframes/wf-signup.png)
 
@@ -168,11 +177,6 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 -   Sign in view
 
 ![Sign In](./media/readme_wireframes/wf-signin.png)
-
-
-![SKU codes](./media/readme-screenshots/sku-codes.png)
-
-
 
 
 ### Surface
@@ -242,26 +246,26 @@ The testing section is in a seperate file: [Testing](testing.md)
 ### GitHub Pages
 
 - The site is deployed to GitHub pages. The steps to deploy were as follows:
-    - Log into GitHub and locate the My-dutch-life GitHub repository, navigate to the Settings tab and select the Pages 
+    - Log into GitHub and locate the [Beans](https://github.com/Morpheus-23/Beans) GitHub repository, navigate to the Settings tab and select the Pages 
     - From the source section drop-down menu, select the Master Branch
-- The live link can be found here - [2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/)
+- The live link can be found here - [2Bean-or-not-2Bean](https://beans2beans.herokuapp.com/) 
 
 ### Making a Clone
 
-- Log into GitHub and locate the My-dutch-life GitHub repository
-- Click on the My-dutch-life repository
+- Log into GitHub and locate the Beans GitHub repository
+- Click on the Beans repository
 - Click on the Code button
 - Choose the HTTPS option, then click on the clipboard right of the URL
 - Then choose your IDE or editor of choice
 - Open a respository or create a new repository 
 - Open the terminal and type "git clone" and paste the URL copied above 
-    git clone https://github.com/Morpheus-23/my-dutch-life.git 
+    git clone https://github.com/Morpheus-23/Beans.git
 - press enter and the clone will be created
 
 ### Forking the repository for own use
 
-- Log into GitHub and locate the My-dutch-life GitHub repository
-- Click on the My-dutch-life repository
+- Log into GitHub and locate the Beans GitHub repository
+- Click on the Beans repository
 - Click on the Fork button 
 
 #### Create Mongodb database 
