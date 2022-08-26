@@ -22,14 +22,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# mariska-onseker SECRET_KEY = os.environ.get('SECRET_KEY', '')  /
 
-SECRET_KEY = ')&swdi2+ma@g*8%cyjdyed#2-0o@!rg=*c+zao+)6)8q8t)-66'
+SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# mariska-onseker DEBUG = 'DEVELOPMENT' in os.environ  /
-
-DEBUG = True
+DEBUG = 'DEVELOPMENT' in os.environ  
 
 ALLOWED_HOSTS = ['beans2beans.herokuapp.com', 'localhost']
 
