@@ -102,9 +102,9 @@ The website consists of :
     - Secure checkout
 
 
-The data schema below was prepared by using [Lucid.app](https://lucid.app/)
+The data schema:
 
- ![Database schema](./readme/schema-db.png)
+ ![Database schema](./media/readme-screenshots/beans-datamodel.png)
 
 
 The SKU codes created by use of a basic system :
@@ -309,6 +309,7 @@ Frameworks, libraries and others
 * Features for the site administrator to add, amend, delete products on the site
 * Some issues with the small / medium device views / layouts
 * Minor changes to styling / colours needed
+* More / better screenshots and more wireframes could be provided
 * A more complete description of technologies used with their relevant links
 * More complete information of the content utilised
 * A more complete step by step version of deployment and signing up to AWS and Heroku could be given
@@ -321,8 +322,6 @@ Frameworks, libraries and others
 - All images were taken from [Pexels](https://pexels.com/)
 
 - Wireframs were prepared in [Balsamiq](https://balsamiq.com/wireframes/)
-
-- The database schema was prepared using [Lucid.app](https://lucid.app/)
 
 - Fonts were utilised from [GoogleFonts](https://fonts.google.com/)
 

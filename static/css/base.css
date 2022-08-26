@@ -422,6 +422,36 @@ input[name='q']::placeholder {
 
 }
 
+@media (max-width: 300px)  {
+
+    .header-container {
+        padding-top: 116px;
+    }
+
+    .container {
+        padding-top: 150px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
+    }
+
+}
+@media (max-width: 229px)  {
+
+    .header-container {
+        padding-top: 116px;
+    }
+
+    .container {
+        padding-top: 200px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
+    }
+
+}
 /* @media (max-width: 768px)  {
 
     .header-container {
