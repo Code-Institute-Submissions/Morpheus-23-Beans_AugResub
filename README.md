@@ -51,7 +51,7 @@ Organic is the better choice. These organic certified beans have not been treate
 
 ### Strategy
 
-The main aim and focus of 2Bean-or-not-2Bean is to provide an online store where users can purchase quality fairtrade organic beans and related coffee products from the comfort of their homes / offices / devices, which transactions can take place securely.
+The main aim and focus of 2Bean-or-not-2Bean is to provide an online store where users can purchase quality fairtrade organic beans and related coffee products from the comfort of their homes / offices / devices, which transactions can take place securely:
 -   by selling organic beans, which have not been subjected to poisons and toxins and is a healthier option than non-organic beans;
 -   by providing fairtrade beans, which means that the bean growers get fair prices for their products, which in turn makes their bean growing farms and communities more sustainable;
 -   by taking part in the fairtrade model, by which the beans purchased can be traced back to the specific growers;
@@ -86,20 +86,20 @@ The website consists of :
 - Home page - reflecting a search bar, navigation bar(all products, beans, coffee makers, coffee mugs and cups, special offers), order now link, my account and shopping bag
 - Logo - made clickable to return to the home page
 - Once an option has been selected from the drop down menu in the navigation bar, the relevant page will open reflecting all the products within the elected section:
--       All products (By Price, By Rating, By Category, All products)
--       Beans (Arabica Beans, Liberica Beans, Robusta Beans, Once Off available beans, All beans)
--       Coffee Makers (french press, drip coffee, moka pot, siphon pot, coffee maker and cup sets, all coffee makers)
--       Coffee mugs and cups (cappuccino cups, espresso cups, cups, mugs, messages mugs, cups on the move, disposable cups, all coffee mugs and cups)
--       Special offers (end of range, clearance, all specials)
+- All products (By Price, By Rating, By Category, All products)
+    - Beans (Arabica Beans, Liberica Beans, Robusta Beans, Once Off available beans, All beans)
+    - Coffee Makers (french press, drip coffee, moka pot, siphon pot, coffee maker and cup sets, all coffee makers)
+    - Coffee mugs and cups (cappuccino cups, espresso cups, cups, mugs, messages mugs, cups on the move, disposable cups, all coffee mugs and cups)
+    - Special offers (end of range, clearance, all specials)
 - After a choice has been selected from the drop down menu in the navigation bar, the relevant products will be reflected (their images, price, category and rating)
 - Once a product has been selected by clicking on the image, the page will open with a larger image, price, category, rating, description, option to choose the quantity, add to the shopping bag or keep shopping (the beans have additional options available, being roast(light, medium, dark) and grind(none, espresso or filter))
-- My Account (Register, Sign In, Update details, Sign Up, Sign Out, options)
+- My Account (Register, Sign In, Update details, Sign Up, Sign Out options)
 - Shopping bag, which has the following options:
--       Increase / decrease products
--       Remove products from bag
--       Update bag
--       Keep shopping
--       Secure checkout
+    - Increase / decrease products
+    - Remove products from bag
+    - Update bag
+    - Keep shopping
+    - Secure checkout
 
 
 The data schema below was prepared by using [Lucid.app](https://lucid.app/)
@@ -110,7 +110,7 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
 ![Sitemap](./readme/sitemap.png)
 
-
+The SKU codes created by a simple system :
 
 ![SKU codes](./media/readme-screenshots/sku-codes.png)
 
@@ -181,7 +181,7 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
 ### Surface
 
-- The clickable logo and navigation bar is consistently located on each page, allowing an intuitive user experience
+- The navigation bar, search bar,  is consistently located on each page, allowing an intuitive user experience
 - The images shown on the site, reflects the Katwijk community, which images in itself will draw the community members in as they would be curious about the happenings in their  
   direct environment
 - The layout has been kept very clean and simple as the site is aimed at absolutely all persons within the Katwijk community, young and old, from all backgrounds
@@ -210,14 +210,19 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 #### Common Page features
 
 - Logo
-    - The logo is clickable and provides an easy way to navigate back to the welcome page.
+    - The logo is clickable and provides an easy way to navigate back to the main page.
   
 - Navigation Bar
     - Consistently located on each page allowing an intuitive user experience.
     - Provides links to All Products, Beans, Coffee Makers, Coffee Mugs and Cups, Special Offers.
 
-- My Bean Account Shopping Bag
-    - The logo is clickable and provides an easy way to navigate back to the welcome page.
+- My Bean Account
+    - Consistently located on each page allowing an intuitive user experience.
+    - Enabling user to access their account / profile.
+
+ Shopping Bag
+    - Consistently located on each page allowing an intuitive user experience.
+    - Provides links to All Products, Beans, Coffee Makers, Coffee Mugs and Cups, Special Offers.
     
 #### Page specific features
 
@@ -306,13 +311,14 @@ Languages
 
 Frameworks, libraries and others
 
--   Flask - micro framework for building applications
--   FlaskPyMongo - provides MongoDB support for Flask applications
--   Werkzeug - a library framework (https://werkzeug.palletsprojects.com/)
 -   MongoDB - hosting the database in a cloud environment (https://www.mongodb.com/)
 -   Gitpod - developing the site (https://www.gitpod.io/)
 -   Github - version control and hosting the repository (https://github.com/)
 -   Heroku - deploy the live site (https://dashboard.heroku.com/apps)
+-   Django (https://docs.djangoproject.com/)
+-   AWS (https://signin.aws.amazon.com/)
+-   Stripe (https://stripe.com/)
+
 -   Pip - package installer for Python
 -   dnspython - a toolkit for Python
 -   jQuery (https://releases.jquery.com/)
@@ -321,12 +327,15 @@ Frameworks, libraries and others
 
 
 ## Unimplemented assessment criteria
+(not implemented/finalised due to time constraints)
 
-* Styling can be more compact and less inline.
-* Better defensive programming can be applied.
-* Features for the site administrator can be developed so that new categories can be created by the administrator on the website and not just from MongoDB.
-* Better wireframes could be done by making use of Balsamic, to replace the hand drawn wireframes.
+* Clickable logo to be provided for mobile views 
+* Features for the site administrator to add, amend, delete products on the site
+* Some issues with the small / medium device views / layouts
+* Minor changes to styling / colours
 * A more complete description of technologies used with their relevant links
+
+
 
 
 ## Content
