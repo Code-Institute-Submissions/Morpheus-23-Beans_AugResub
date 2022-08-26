@@ -15,8 +15,7 @@
 <div class="container mb-2">
     <div class="row">
         <div class="col">
-            <hr>
-            <h2 class="logo-font mb-4">Shopping Bag</h2>
+            <h2 class="logo-font text-center mb-5">Shopping FFFF Bag</h2>
             <hr>
         </div>
     </div>
@@ -58,7 +57,7 @@
                                 <div class="form-group">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                            <button class="decrement-qty btn btn-sm btn-gray rounded-0" 
+                                            <button class="decrement-qty btn btn-sm btn-gray rounded-0"
                                                 data-item_id="{{ item.item_id }}" id="decrement-qty_{{ item.item_id }}">
                                                 <span>
                                                     <i class="fas fa-minus fa-sm"></i>
@@ -67,8 +66,7 @@
                                         </div>
                                         <input class="form-control form-control-sm qty_input" type="number"
                                             name="quantity" value="{{ item.quantity }}" min="1" max="99"
-                                            data-item_id="{{ item.item_id }}"
-                                            id="id_qty_{{ item.item_id }}">
+                                            data-item_id="{{ item.item_id }}" id="id_qty_{{ item.item_id }}">
                                         <div class="input-group-append">
                                             <button class="increment-qty btn btn-sm btn-gray rounded-0"
                                                 data-item_id="{{ item.item_id }}" id="increment-qty_{{ item.item_id }}">
@@ -85,7 +83,7 @@
                                 </div>
                             </form>
                             <a class="update-link text-brown"><small>Update</small></a>
-                            <a class="remove-item text-orange float-right" id="remove_{{ item.item_id }}"
+                            <a class="remove-item text-brown float-right" id="remove_{{ item.item_id }}"
                                 data-roast="{{ item.roast }}" data-grind="{{ item.grind }}">
                                 <small>Remove</small>
                             </a>
@@ -101,7 +99,7 @@
                             <h6>Delivery: €{{ delivery|floatformat:2 }}</h6>
                             <h4 class="mt-4"><strong>Grand Total: €{{ grand_total|floatformat:2 }}</strong></h4>
                             {% if free_delivery_delta > 0 %}
-                            <p class="mb-1 text-orange">
+                            <p class="mb-1 text-brown">
                                 You could get free delivery by spending just <strong>€{{ free_delivery_delta }}</strong>
                                 more!
                             </p>
@@ -110,12 +108,13 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="text-right">
-                            <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 btn-lg">
+                            <a href="{% url 'products' %}" class="btn btn-gray rounded-0 btn-lg">
                                 <span class="icon">
                                     <i class="fas fa-chevron-left"></i>
                                 </span>
                                 <span class="text-uppercase">Keep Shopping</span>
                             </a>
+
                             <a href="{% url 'checkout' %}" class="btn btn-gray rounded-0 btn-lg">
                                 <span class="text-uppercase">Secure Checkout</span>
                                 <span class="icon">
@@ -127,22 +126,23 @@
                 </table>
             </div>
             {% else %}
-            <p class="lead mb-5 text-brown text-center">Oh no, this bag is empty!</p>
-            <a href="{% url 'products' %}" class="btn btn-outline-gray rounded-0 btn-lg">
-                <span class="text-center text-brown">Continue shopping <i class="fa-solid fa-cart-shopping"></i>
-                </span>
-            </a>
+            <br>
+            <div class="text-brown text-center">
+                <p class="lead text-brown mb-5">Oh no, this big bag is empty!</p>
+                <a href="{% url 'products' %}" class="btn btn-outline-gray rounded-0 btn-lg">
+                    <span class="text-orange">Continue shopping <i class="fa-solid fa-cart-shopping"></i>
+                    </span>
+                </a>
+            </div>
             {% endif %}
         </div>
     </div>
 </div>
-
 <footer id="footer-other">
     <div class="container-fluid fixed-bottom text-center">
-        <h3 class=" text-orange text-lowercase">...you must make the coffee you wish to drink...</h3>
+        <h5 class=" text-brown text-lowercase">...you must make the coffee you wish to drink...</h5>
     </div>
 </footer>
-
 {% endblock %}
 
 {% block postloadjs %}
@@ -151,7 +151,7 @@
 
 <script type="text/javascript">
     // Update quantity on click
-    $('.update-link').click(function(e) {
+    $('.update-link').click(function (e) {
         var form = $(this).prev('.update-form');
         form.submit();
     })
@@ -174,6 +174,6 @@
                 location.reload();
             });
     })
- 
+
 </script>
 {% endblock %}

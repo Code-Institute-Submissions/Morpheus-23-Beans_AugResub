@@ -58,7 +58,7 @@ body {
 .btn-gray:hover,
 .btn-gray:active,
 .btn-gray:focus {
-    background: lightgray;
+    background: gray;
     color: orangered;
 }
 
@@ -127,15 +127,15 @@ body {
 }
 
 #delivery-banner {
-    background-color: gray;
-    opacity: 0.5;
+    background-color: orangered;
+    opacity: 0.8 !important;
     font-weight: bolder;
 }
 
 #diduknow-banner {
     background-color: lightgray !important;
-    opacity: 0.5 !important;
-    font-weight: bolder;
+    opacity: 0.6 !important;
+    font-weight: bolder !important;
 }
 
 .overlay {
@@ -260,8 +260,6 @@ a.category-badge > span.badge:hover {
 }    
 
 
-    position: absolute;
-
 
 /* ------------- Media Queries */
 
@@ -287,6 +285,7 @@ a.category-badge > span.badge:hover {
     }
 }
 
+/*
 @media (max-width: 991px) {
     .header-container {
         padding-top: 116px;
@@ -295,4 +294,32 @@ a.category-badge > span.badge:hover {
     body {
         height: calc(100vh - 116px);
     }
+}
+*/
+
+@media (max-width: 768px)  {
+
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
+    }
+
+
+    #footer-main {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        font-size: calc(2vw + 2vh + 1vmin) !important;
+    }
+
+
+    #footer-other {
+        width: 50%;
+        height: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        font-size: calc(2vw + 2vh + 1vmin) !important;
+    }    
 }
