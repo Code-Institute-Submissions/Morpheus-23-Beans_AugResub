@@ -147,6 +147,35 @@ The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
 
 
+-   Afte
+
+![Shopping Bag](./media/readme_wireframes/wf-shoppingbag.png)
+
+
+-   After c
+
+![Ckeck Out](./media/readme_wireframes/wf-checkout.png)
+
+
+-   After clicking on one of the product images, the page opens the specific product selected, with beans having more options available (being the roast and grind options). (desktop view)
+
+![Order confirmation](./media/readme_wireframes/wf-orderconfirmation.png)
+
+
+
+-   After clicking on one of the product images, the page opens the specific product selected, with beans having more options available (being the roast and grind options). (desktop view)
+
+![Sign Up](./media/readme_wireframes/wf-signup.png)
+
+-   After clicking on one of the product images, the page opens the specific product selected, with beans having more options available (being the roast and grind options). (desktop view)
+
+![My Profile](./media/readme_wireframes/wf-myprofile.png)
+
+
+-   After clicking on one of the product images, the page opens the specific product selected, with beans having more options available (being the roast and grind options). (desktop view)
+
+![Sign In](./media/readme_wireframes/wf-signin.png)
+
 
 ![SKU codes](./media/readme-screenshots/sku-codes.png)
 
