@@ -184,12 +184,21 @@ The SKU codes created by use of a basic system :
 
 ### Screenshots reflecting the following pages:
 
+![Welcome](./media/readme-screenshots/ss-main.png)
 
+![My Profile](./media/readme-screenshots/ss-myprofile.png)
 
+![Sign In](./media/readme-screenshots/ss-signin.png)
 
-  
+![Products](./media/readme-screenshots/ss-products.png)
 
-   
+![Product single](./media/readme-screenshots/ss-productsingle.png)
+
+![Shopping Bag](./media/readme-screenshots/ss-shoppingbag.png)
+
+![Shopping Bag Success](./media/readme-screenshots/ss-successsbag.png)
+
+![Order Confirmation](./media/readme-screenshots/ss-orderconfirmation.png)
 
 ## Features
 
