@@ -106,14 +106,10 @@ The data schema below was prepared by using [Lucid.app](https://lucid.app/)
 
  ![Database schema](./readme/schema-db.png)
 
-The sitemap was prepared using [Gloomaps](https://www.gloomaps.com/nMkFjnEiHn)
 
-![Sitemap](./readme/sitemap.png)
-
-The SKU codes created by a simple system :
+The SKU codes created by use of a basic system :
 
 ![SKU codes](./media/readme-screenshots/sku-codes.png)
-
 
 
 ### Skeleton
@@ -181,23 +177,15 @@ The SKU codes created by a simple system :
 
 ### Surface
 
-- The navigation bar, search bar,  is consistently located on each page, allowing an intuitive user experience
-- The images shown on the site, reflects the Katwijk community, which images in itself will draw the community members in as they would be curious about the happenings in their  
-  direct environment
-- The layout has been kept very clean and simple as the site is aimed at absolutely all persons within the Katwijk community, young and old, from all backgrounds
-- The colours taken from the Materialize Color Palette was also kept very simple and more shades of the same colors were used in stead of a greater variety of colours, also to keep
-    the site looking calm and relaxing.  The colours were also chosen reflect the blue skye, green of the trees and the colours of the incredible blue and green building.
-
-        "Cool colors include green, blue, and purple, are often more subdued than warm colors. They are the colors of night, of water, of nature, and are usually calming, relaxing, and somewhat reserved.
-
-        Blue is the only primary color within the cool spectrum, which means the other colors are created by combining blue with a warm color (yellow for green and red for purple).
-
-        Because of this, green takes on some of the attributes of yellow, and purple takes on some of the attributes of red. Use cool colors in your designs to give a sense of calm or professionalism." Taken from (https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
+- The navigation bar and search bar consistently located on all pages allowing an intuitive user experience.
+- The colours used on the site were inspired by the colours of coffee beans (a bit of red, yellow and brown) together with the different shades of gray which does not distract from the other bright colours used. The gray background lets the images stand out more as well as all the bright messages appearing as the user shops. The use of gray lends a modern feel to the site.
+- The layout has been kept very simple and easy to navigate.
 
 
-- Screenshots reflecting the following pages:
+### Screenshots reflecting the following pages:
 
-    - For desktop, laptop, tablet and mobile:
+
+
 
   
 
@@ -207,11 +195,13 @@ The SKU codes created by a simple system :
 
 ### Existing Features
 
-#### Common Page features
-
 - Logo
-    - The logo is clickable and provides an easy way to navigate back to the main page.
+    - The logo is clickable and provides an easy way to navigate back to the main page(desktop view).
   
+- Search Bar
+    - Consistently located on each page allowing an intuitive user experience.
+    - Products can be searched by any word mentioned in their name / description.
+
 - Navigation Bar
     - Consistently located on each page allowing an intuitive user experience.
     - Provides links to All Products, Beans, Coffee Makers, Coffee Mugs and Cups, Special Offers.
@@ -220,31 +210,20 @@ The SKU codes created by a simple system :
     - Consistently located on each page allowing an intuitive user experience.
     - Enabling user to access their account / profile.
 
- Shopping Bag
+- Shopping Bag
     - Consistently located on each page allowing an intuitive user experience.
-    - Provides links to All Products, Beans, Coffee Makers, Coffee Mugs and Cups, Special Offers.
-    
-#### Page specific features
-
--   Welcome page - available to the public and giving basic information about the website and providing a photograph of the neighbourhood
--   Login page - for completion of the username and password and clicking on the login link to enable registered members to log into the website 
--   Register page - for new/unregistered members to enable registration by completing their username, providing their firstname, surname and postal code, creating their own password 
-    and confirming that they agree to abide by the rules as set out on the bottom of the registration page by clicking the checkbox provided (a requirement before registration can take place). When hovering over the Password space, a tip appears to indicate that a password length must be between 5 and 100 and alphanumerical.
--   Contact Admin page - provides both registered members and unregistered users access to obtain contact details of the site administrator, such as a contact number, email 
-    address, office address and available hours and providing another photograph of the neighbourhood
--   Profile page - reflects the registered user's username, firstname, surname and postal code. The registered user can change their password on this page, should they
-    want / need to at any stage after their initial registration. When hovering over the Password space, a tip appears to indicate that a password length must be between 5 and 100 and alphanumerical
--   All Offers page -  this page has the option for the registered and logged in user to see all the available offers, to filter the offers by category, to filter the page to 
-    only see the offers of the registered user, to clear the filters and to edit or delete their own offers.  Registered members do not have the option to delete or edit offers of other members. No edit or delete buttons appear on the offers of other members. When hovering over the ApplyFilter button, a tip appears to assist the user when making use of this page
--   New Offers page - once a registered member is logged in, they can add their own offer which will appear on the All Offers page.  To add an offer, a member must first elect a 
-    category from the drop down list, thereafter provide an offer name, then a description of the offer, provide a collection address, collection date and there is an option to reflect the collection start time and expiry time. A member can also indicate whether the offering is a hot or a cold product, which may be relevant for any persons considering collection of said offering
--   Logout in the nav bar - by clicking on the LogOut tab in the navigation bar a registered user is easily logged out of their profile and the registered section of the site
+    - Contantly reflecting the total amount of the products placed in a shopping bag (of any) and can be easily access for checking out or amending bag contents.
 
 
 ## Testing
 
-The testing section is in a seperate file: [Testing](testing.md)
+Except for the user story testing below, the testing section is in a seperate file: [Testing](testing.md)
 
+- ![User Story Test part 1](./media/u-s-test-a.png)
+
+- ![User Story Test part 2](./media/u-s-test-b.png)
+
+- ![User Story Test part 3](./media/u-s-test-c.png)
 
 ## Deployment
 
@@ -272,14 +251,6 @@ The testing section is in a seperate file: [Testing](testing.md)
 - Log into GitHub and locate the Beans GitHub repository
 - Click on the Beans repository
 - Click on the Fork button 
-
-#### Create Mongodb database 
-
-- Create a new database 
-- Create the collection for:
-    - categories
-    - offers
-    - members
 
 ### Heroku
 
@@ -311,19 +282,15 @@ Languages
 
 Frameworks, libraries and others
 
--   MongoDB - hosting the database in a cloud environment (https://www.mongodb.com/)
--   Gitpod - developing the site (https://www.gitpod.io/)
--   Github - version control and hosting the repository (https://github.com/)
--   Heroku - deploy the live site (https://dashboard.heroku.com/apps)
--   Django (https://docs.djangoproject.com/)
--   AWS (https://signin.aws.amazon.com/)
--   Stripe (https://stripe.com/)
-
+-   Gitpod - (https://www.gitpod.io/)
+-   Github - (https://github.com/)
+-   Heroku - (https://dashboard.heroku.com/apps)
+-   Django - (https://docs.djangoproject.com/)
+-   AWS - (https://signin.aws.amazon.com/)
+-   Stripe - (https://stripe.com/)
 -   Pip - package installer for Python
--   dnspython - a toolkit for Python
 -   jQuery (https://releases.jquery.com/)
 -   Jinja (https://jinja.palletsprojects.com/en/3.0.x/templates/#)
--   RandomKeyGen (https://randomkeygen.com/)
 
 
 ## Unimplemented assessment criteria
@@ -332,45 +299,28 @@ Frameworks, libraries and others
 * Clickable logo to be provided for mobile views 
 * Features for the site administrator to add, amend, delete products on the site
 * Some issues with the small / medium device views / layouts
-* Minor changes to styling / colours
+* Minor changes to styling / colours needed
 * A more complete description of technologies used with their relevant links
-
-
-
+* More complete information of the content utilised
+* A more complete step by step version of deployment and signing up to AWS and Heroku could be given
+* More testing could be done
 
 ## Content
 
 - All icons were taken from [Font Awesome](https://fontawesome.com/)
 
 - All images were taken from [Pexels](https://pexels.com/)
-    -   Welcome page (Photo by Chait Goli: https://www.pexels.com/photo/photo-of-boats-parked-on-river-2031706/)
-    -   Contact admin page (Photo by Teodor Savin: https://www.pexels.com/photo/green-and-blue-painted-house-600622/)
 
-- The sitemap was prepared using [GlooMaps](https://gloomaps.com/)
+- Wireframs were prepared in [Balsamiq](https://balsamiq.com/wireframes/)
 
 - The database schema was prepared using [Lucid.app](https://lucid.app/)
 
 - Fonts were utilised from [GoogleFonts](https://fonts.google.com/)
 
-- Font and background colours and some functionalities were taken from [Materialize](https://materializecss.com/)
-
 - Responsiveness was tested and screenshots were taken from [AmIResponsive](https://ui.dev/amiresponsive)
 
-- Some design ideas were taken from the Code Institute Backend Development Mini Project.
+- Majority of the design ideas were taken from the Code Institute Ado Boutique project.
 
 - Some technical implementation information was taken from [StackOverflow](https://stackoverflow.com/)
-    -   https://stackoverflow.com/questions/30207047/how-to-get-multi-select-dropdown-in-materialize-css
-    -   https://stackoverflow.com/questions/69950552/mongodb-update-i-cant-update-my-documents-in-mongodb-with-flask-api
-    -   https://stackoverflow.com/questions/11774265/how-do-you-access-the-query-string-in-flask-routes
-    -   https://stackoverflow.com/questions/23577172/mongodb-pymongo-querying-multiple-criteria-unexpected-results
-
-- Some technical information was taken from [Freecodecamp](https://freecodecamp.org/)
-    -   https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/
-
-- Some technical information was taken from [Digitalocean](https://digitalocean.com/)
-    -   https://www.digitalocean.com/community/tutorials/css-prevent-line-break
-
-- Some technical information was taken from [Youtube](https://www.youtube.com/c/CodersPage)
-    -   https://www.youtube.com/watch?v=dQ2niRl2Lek
 
 - I made use of[W3Schools](https://www.w3schools.com/) for help with html and css.
