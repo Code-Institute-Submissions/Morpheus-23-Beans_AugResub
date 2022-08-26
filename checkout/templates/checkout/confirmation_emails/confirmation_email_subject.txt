@@ -1,0 +1,1 @@
+2Bean-or-not-2Bean Confirmation for Order Number {{ order.order_number }}

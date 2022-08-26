@@ -148,10 +148,21 @@ body {
 	z-index: -1;
 }
 
+a.category-badge {
+    background: #fff !important;
+    color: darkred!important;
+}
+
 a.category-badge > span.badge:hover {
-    background: #212529 !important;
+    background: darkred !important;
     color: #fff !important;
 }
+
+a.prodhome,
+a.signin {
+    color: darkred !important;
+}
+
 
 .btt-button {
     color: orangered !important;
